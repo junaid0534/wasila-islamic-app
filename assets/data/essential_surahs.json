@@ -1,0 +1,2172 @@
+[
+  {
+    "id": 1,
+    "number": 1,
+    "nameArabic": "سُورَةُ ٱلْفَاتِحَةِ",
+    "nameEnglish": "Al-Faatiha",
+    "nameUrdu": "سورۃ الفاتحہ",
+    "meaning": "The Opening (ام القرآن)",
+    "versesCount": 7,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "ہر نماز کا لازمی حصہ، ام الکتاب، تمام بیماریوں کے لیے شفا اور دعاؤں کی قبولیت کا ذریعہ۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/001.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "بِسْمِ [h:1[ٱ]للَّهِ [h:2[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ",
+        "textUrdu": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+        "textEnglish": "In the name of Allah, the Entirely Merciful, the Especially Merciful."
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "ٱلْحَمْدُ لِلَّهِ رَبِّ [h:4[ٱ]لْعَ[n[ـٰ]لَم[p[ِي]نَ",
+        "textUrdu": "سب طرح کی تعریف خدا ہی کو (سزاوار) ہے جو تمام مخلوقات کا پروردگار ہے",
+        "textEnglish": "[All] praise is [due] to Allah, Lord of the worlds -"
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "ٱ[l[ل]رَّحْمَ[n[ـٰ]نِ [h:3[ٱ][l[ل]رَّح[p[ِي]مِ",
+        "textUrdu": "بڑا مہربان نہایت رحم والا",
+        "textEnglish": "The Entirely Merciful, the Especially Merciful,"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "مَ[n[ـٰ]لِكِ يَوْمِ [h:5[ٱ][l[ل]دّ[p[ِي]نِ",
+        "textUrdu": "انصاف کے دن کا حاکم",
+        "textEnglish": "Sovereign of the Day of Recompense."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَع[p[ِي]نُ",
+        "textUrdu": "(اے پروردگار) ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+        "textEnglish": "It is You we worship and You we ask for help."
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "ٱهْدِنَا [h:6[ٱ][l[ل]صِّر[n[َٲ]طَ [h:7[ٱ]لْمُسْتَق[p[ِي]مَ",
+        "textUrdu": "ہم کو سیدھے رستے چلا",
+        "textEnglish": "Guide us to the straight path -"
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "صِر[n[َٲ]طَ [h:8[ٱ]لَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ [h:9[ٱ]لْمَغْضُوبِ عَلَيْهِمْ وَلَا [h:10[ٱ][l[ل]ضّ[m[َا]ٓلّ[p[ِي]نَ",
+        "textUrdu": "ان لوگوں کے رستے جن پر تو اپنا فضل وکرم کرتا رہا نہ ان کے جن پر غصے ہوتا رہا اور نہ گمراہوں کے",
+        "textEnglish": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray."
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "number": 255,
+    "nameArabic": "آيَةُ الْكُرْسِيّ",
+    "nameEnglish": "Ayat-ul-Kursi",
+    "nameUrdu": "آیت الکرسی",
+    "meaning": "The Throne Verse (عظیم ترین آیت)",
+    "versesCount": 1,
+    "revelationType": "Madani",
+    "benefitsUrdu": "قرآن مجید کی سب سے عظیم ترین آیت۔ جو شخص ہر فرض نماز کے بعد پڑھے اس کے اور جنت کے درمیان صرف موت حائل ہے۔",
+    "audioUrl": "https://everyayah.com/data/Alafasy_128kbps/002255.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "ٱللَّهُ ل[o[َآ] إِلَ[n[ـٰ]هَ إِلَّا هُوَ [h:1468[ٱ]لْحَىُّ [h:1469[ٱ]لْقَيُّومُ‌ۚ لَا تَأْخُذُهُ[n[ۥ] سِنَ[a:1470[ةٌ و]َلَا نَوْ[u:1471[مٌ‌ۚ ل]َّهُ[n[ۥ] مَا فِى [h:609[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَمَا فِى [h:44[ٱ]لْأَرْضِ‌ۗ مَ[f:1375[ن ذ]َا [h:1376[ٱ]لَّذِى يَشْفَعُ عِ[f:719[ند]َهُ[o[ۥٓ] إِلَّا بِإِذْنِه[n[ِۦ]‌ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ‌ۖ وَلَا يُحِيطُونَ بِش[a:1472[َىْءٍ م]ِّنْ عِلْمِه[o[ِۦٓ] إِلَّا بِمَا ش[o[َا]ٓءَ‌ۚ وَسِعَ كُرْسِيُّهُ [h:1473[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:1474[ٱ]لْأَرْضَ‌ۖ وَلَا يَــُٔودُهُ[n[ۥ] حِفْظُهُمَا‌ۚ وَهُوَ [h:1475[ٱ]لْعَلِىُّ [h:1476[ٱ]لْعَظ[p[ِي]مُ",
+        "textUrdu": "خدا (وہ معبود برحق ہے کہ) اس کے سوا کوئی عبادت کے لائق نہیں زندہ ہمیشہ رہنے والا اسے نہ اونگھ آتی ہے نہ نیند جو کچھ آسمانوں میں اور جو کچھ زمین میں ہیں سب اسی کا ہے کون ہے جو اس کی اجازت کے بغیر اس سے (کسی کی) سفارش کر سکے جو کچھ لوگوں کے روبرو ہو رہا ہے اور جو کچھ ان کے پیچھے ہوچکا ہے اسے سب معلوم ہے اور وہ اس کی معلومات میں سے کسی چیز پر دسترس حاصل نہیں کر سکتے ہاں جس قدر وہ چاہتا ہے (اسی قدر معلوم کرا دیتا ہے) اس کی بادشاہی (اور علم) آسمان اور زمین سب پر حاوی ہے اور اسے ان کی حفاظت کچھ بھی دشوار نہیں وہ بڑا عالی رتبہ اور جلیل القدر ہے",
+        "textEnglish": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of [all] existence. Neither drowsiness overtakes Him nor sleep. To Him belongs whatever is in the heavens and whatever is on the earth. Who is it that can intercede with Him except by His permission? He knows what is [presently] before them and what will be after them, and they encompass not a thing of His knowledge except for what He wills. His Kursi extends over the heavens and the earth, and their preservation tires Him not. And He is the Most High, the Most Great."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "nameArabic": "سُورَةُ يسٓ",
+    "nameEnglish": "Yaseen",
+    "nameUrdu": "سورۃ یٰسین",
+    "meaning": "Ya-Sin (قلب القرآن - دلِ قرآن)",
+    "versesCount": 83,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "رسول اللہ ﷺ نے فرمایا: ہر چیز کا ایک دل ہوتا ہے اور قرآن کا دل سورہ یٰسین ہے۔ جو شخص اس کی تلاوت کرے اللہ تعالیٰ اسے دس بار قرآن پڑھنے کا ثواب عطا فرماتا ہے۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/036.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "ي[m[سٓ]",
+        "textUrdu": "یٰسٓ",
+        "textEnglish": "Ya, Seen."
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "وَ[h:9999[ٱ]لْقُرْءَانِ [h:11176[ٱ]لْحَك[p[ِي]مِ",
+        "textUrdu": "قسم ہے قرآن کی جو حکمت سے بھرا ہوا ہے",
+        "textEnglish": "By the wise Qur'an."
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "إِ[g[نّ]َكَ لَمِنَ [h:1443[ٱ]لْمُرْسَل[p[ِي]نَ",
+        "textUrdu": "اے محمدﷺ) بےشک تم پیغمبروں میں سے ہو",
+        "textEnglish": "Indeed you, [O Muhammad], are from among the messengers,"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "عَلَىٰ صِر[n[َٲ][a:726[طٍ م]ُّسْتَق[p[ِي]مٍ",
+        "textUrdu": "سیدھے رستے پر",
+        "textEnglish": "On a straight path."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "تَ[f:11177[نز]ِيلَ [h:11178[ٱ]لْعَزِيزِ [h:9869[ٱ][l[ل]رَّح[p[ِي]مِ",
+        "textUrdu": "یہ خدائے) غالب (اور) مہربان نے نازل کیا ہے",
+        "textEnglish": "[This is] a revelation of the Exalted in Might, the Merciful,"
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "لِتُ[f:4582[نذ]ِرَ قَوْ[a:10181[مًا م]ّ[o[َآ] أُ[f:11179[نذ]ِرَ ءَاب[o[َا]ٓؤُهُمْ فَهُمْ غَ[n[ـٰ]فِل[p[ُو]نَ",
+        "textUrdu": "تاکہ تم ان لوگوں کو جن کے باپ دادا کو متنبہ نہیں کیا گیا تھا متنبہ کردو وہ غفلت میں پڑے ہوئے ہیں",
+        "textEnglish": "That you may warn a people whose forefathers were not warned, so they are unaware."
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "لَقَ[q:2389[دْ] حَقَّ [h:10639[ٱ]لْقَوْلُ عَلَ[o[ىٰٓ] أَكْثَرِهِمْ فَهُمْ لَا يُؤْمِن[p[ُو]نَ",
+        "textUrdu": "ان میں سے اکثر پر (خدا کی) بات پوری ہوچکی ہے سو وہ ایمان نہیں لائیں گے",
+        "textEnglish": "Already the word has come into effect upon most of them, so they do not believe."
+      },
+      {
+        "verseNumber": 8,
+        "textArabic": "إِ[g[نّ]َا جَعَلْنَا ف[o[ِىٓ] أَعْنَ[n[ـٰ]قِهِمْ أَغْلَ[n[ـٰ]ل[f:11180[اً ف]َهِىَ إِلَى [h:11181[ٱ]لْأَذْقَانِ فَه[w:11182[ُم م]ُّ[q:11183[قْ]مَح[p[ُو]نَ",
+        "textUrdu": "ہم نے ان کی گردنوں میں طوق ڈال رکھے ہیں اور وہ ٹھوڑیوں تک (پھنسے ہوئے ہیں) تو ان کے سر اُلل رہے ہیں",
+        "textEnglish": "Indeed, We have put shackles on their necks, and they are to their chins, so they are with heads [kept] aloft."
+      },
+      {
+        "verseNumber": 9,
+        "textArabic": "وَجَعَلْنَا م[i:4612[ِنۢ ب]َيْنِ أَيْدِيهِمْ سَد[a:11184[ًّا و]َمِنْ خَلْفِهِمْ سَد[f:11185[ًّا ف]َأَغْشَيْنَ[n[ـٰ]هُمْ فَهُمْ لَا يُ[q:60[بْ]صِر[p[ُو]نَ",
+        "textUrdu": "اور ہم نے ان کے آگے بھی دیوار بنا دی اور ان کے پیچھے بھی۔ پھر ان پر پردہ ڈال دیا تو یہ دیکھ نہیں سکتے",
+        "textEnglish": "And We have put before them a barrier and behind them a barrier and covered them, so they do not see."
+      },
+      {
+        "verseNumber": 10,
+        "textArabic": "وَسَو[o[َا]ٓءٌ عَلَيْهِمْ ءَأَ[f:25[نذ]َرْتَهُمْ أَمْ لَمْ تُ[f:26[نذ]ِرْهُمْ لَا يُؤْمِن[p[ُو]نَ",
+        "textUrdu": "اور تم ان کو نصیحت کرو یا نہ کرو ان کے لئے برابر ہے وہ ایمان نہیں لانے کے",
+        "textEnglish": "And it is all the same for them whether you warn them or do not warn them - they will not believe."
+      },
+      {
+        "verseNumber": 11,
+        "textArabic": "إِ[g[نّ]َمَا تُ[f:11105[نذ]ِرُ مَنِ [h:3443[ٱ]تَّبَعَ [h:11186[ٱ][l[ل]ذِّكْرَ وَخَشِىَ [h:11187[ٱ][l[ل]رَّحْمَ[n[ـٰ]نَ بِ[h:13[ٱ]لْغَيْبِۖ فَبَشِّرْهُ بِمَغْفِرَ[a:11188[ةٍ و]َأَ[q:11189[جْ][f:11190[رٍ ك]َر[p[ِي]مٍ",
+        "textUrdu": "تم تو صرف اس شخص کو نصیحت کرسکتے ہو جو نصیحت کی پیروی کرے اور خدا سے غائبانہ ڈرے سو اس کو مغفرت اور بڑے ثواب کی بشارت سنا دو",
+        "textEnglish": "You can only warn one who follows the message and fears the Most Merciful unseen. So give him good tidings of forgiveness and noble reward."
+      },
+      {
+        "verseNumber": 12,
+        "textArabic": "إِ[g[نّ]َا نَحْنُ نُحْىِ [h:11191[ٱ]لْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُو[s[اْ] وَءَاثَ[n[ـٰ]رَهُمْۚ وَكُلَّ شَىْءٍ أَحْصَيْنَ[n[ـٰ]هُ ف[o[ِىٓ] إِمَا[a:11192[مٍ م]ُّب[p[ِي]نٍ",
+        "textUrdu": "بےشک ہم مردوں کو زندہ کریں گے اور جو کچھ وہ آگے بھیج چکے اور (جو) ان کے نشان پیچھے رہ گئے ہم ان کو قلمبند کرلیتے ہیں۔ اور ہر چیز کو ہم نے کتاب روشن (یعنی لوح محفوظ) میں لکھ رکھا ہے۔",
+        "textEnglish": "Indeed, it is We who bring the dead to life and record what they have put forth and what they left behind, and all things We have enumerated in a clear register."
+      },
+      {
+        "verseNumber": 13,
+        "textArabic": "وَ[h:9999[ٱ]ضْرِ[q:8060[بْ] لَه[w:8061[ُم م]َّثَلاً أَصْحَ[n[ـٰ]بَ [h:11193[ٱ]لْقَرْيَةِ إِذْ ج[o[َا]ٓءَهَا [h:11194[ٱ]لْمُرْسَل[p[ُو]نَ",
+        "textUrdu": "اور ان سے گاؤں والوں کا قصہ بیان کرو جب ان کے پاس پیغمبر آئے",
+        "textEnglish": "And present to them an example: the people of the city, when the messengers came to it -"
+      },
+      {
+        "verseNumber": 14,
+        "textArabic": "إِذْ أَرْسَلْن[o[َآ] إِلَيْهِمُ [h:11195[ٱ]ثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِ[f:11196[ثٍ ف]َقَال[o[ُوٓ][s[اْ] إِ[g[نّ][o[َآ] إِلَيْك[w:11197[ُم م]ُّرْسَل[p[ُو]نَ",
+        "textUrdu": "(یعنی) جب ہم نے ان کی طرف دو (پیغمبر) بھیجے تو انہوں نے ان کو جھٹلایا۔ پھر ہم نے تیسرے سے تقویت دی تو انہوں نے کہا کہ ہم تمہاری طرف پیغمبر ہو کر آئے ہیں",
+        "textEnglish": "When We sent to them two but they denied them, so We strengthened them with a third, and they said, \"Indeed, we are messengers to you.\""
+      },
+      {
+        "verseNumber": 15,
+        "textArabic": "قَالُو[s[اْ] م[o[َآ] أَ[f:428[نت]ُمْ إِلَّا بَشَ[a:7065[رٌ م]ِّثْلُنَا وَم[o[َآ] أَ[f:471[نز]َلَ [h:11198[ٱ][l[ل]رَّحْمَ[n[ـٰ]نُ مِ[f:2103[ن ش]َىْءٍ إِنْ أَ[f:428[نت]ُمْ إِلَّا تَكْذِب[p[ُو]نَ",
+        "textUrdu": "وہ بولے کہ تم (اور کچھ) نہیں مگر ہماری طرح کے آدمی (ہو) اور خدا نے کوئی چیز نازل نہیں کی تم محض جھوٹ بولتے ہو",
+        "textEnglish": "They said, \"You are not but human beings like us, and the Most Merciful has not revealed a thing. You are only telling lies.\""
+      },
+      {
+        "verseNumber": 16,
+        "textArabic": "قَالُو[s[اْ] رَبُّنَا يَعْلَمُ إِ[g[نّ][o[َآ] إِلَيْكُمْ لَمُرْسَل[p[ُو]نَ",
+        "textUrdu": "انہوں نے کہا کہ ہمارا پروردگار جانتا ہے کہ ہم تمہاری طرف (پیغام دے کر) بھیجے گئے ہیں",
+        "textEnglish": "They said, \"Our Lord knows that we are messengers to you,"
+      },
+      {
+        "verseNumber": 17,
+        "textArabic": "وَمَا عَلَيْن[o[َآ] إِلَّا [h:3819[ٱ]لْبَلَ[n[ـٰ]غُ [h:3781[ٱ]لْمُب[p[ِي]نُ",
+        "textUrdu": "اور ہمارے ذمے تو صاف صاف پہنچا دینا ہے اور بس",
+        "textEnglish": "And we are not responsible except for clear notification.\""
+      },
+      {
+        "verseNumber": 18,
+        "textArabic": "قَال[o[ُوٓ][s[اْ] إِ[g[نّ]َا تَطَيَّرْنَا بِكُمْۖ لَئ[u:4195[ِن ل]َّمْ تَ[f:5288[نت]َهُو[s[اْ] لَنَرْجُمَ[g[نّ]َكُمْ وَلَيَمَسَّ[g[نّ]َك[w:11199[ُم م]ِّ[g[نّ]َا عَذَابٌ أَل[p[ِي]مٌ",
+        "textUrdu": "وہ بولے کہ ہم تم کو نامبارک سمجھتے ہیں۔ اگر تم باز نہ آؤ گے تو ہم تمہیں سنگسار کردیں گے اور تم کو ہم سے دکھ دینے والا عذاب پہنچے گا",
+        "textEnglish": "They said, \"Indeed, we consider you a bad omen. If you do not desist, we will surely stone you, and there will surely touch you, from us, a painful punishment.\""
+      },
+      {
+        "verseNumber": 19,
+        "textArabic": "قَالُو[s[اْ] طَ[o[ـٰٓ]ئِرُك[w:11200[ُم م]َّعَكُمْۚ أَئِ[f:11201[ن ذ]ُكِّرْت[c:11202[ُمۚ ب]َلْ أَ[f:428[نت]ُمْ قَوْ[a:4833[مٌ م]ُّسْرِف[p[ُو]نَ",
+        "textUrdu": "انہوں نے کہا کہ تمہاری نحوست تمہارے ساتھ ہے۔ کیا اس لئے کہ تم کو نصیحت کی گئی۔ بلکہ تم ایسے لوگ ہو جو حد سے تجاوز کر گئے ہو",
+        "textEnglish": "They said, \"Your omen is with yourselves. Is it because you were reminded? Rather, you are a transgressing people.\""
+      },
+      {
+        "verseNumber": 20,
+        "textArabic": "وَج[o[َا]ٓءَ مِنْ أَ[q:10108[قْ]صَا [h:10109[ٱ]لْمَدِينَةِ رَجُ[a:11203[لٌ ي]َسْعَىٰ قَالَ يَ[n[ـٰ]قَوْمِ [h:11204[ٱ]تَّبِعُو[s[اْ] [h:11205[ٱ]لْمُرْسَل[p[ِي]نَ",
+        "textUrdu": "اور شہر کے پرلے کنارے سے ایک آدمی دوڑتا ہوا آیا کہنے لگا کہ اے میری قوم پیغمبروں کے پیچھے چلو",
+        "textEnglish": "And there came from the farthest end of the city a man, running. He said, \"O my people, follow the messengers."
+      },
+      {
+        "verseNumber": 21,
+        "textArabic": "ٱتَّبِعُو[s[اْ] م[u:6065[َن ل]َّا يَسْــَٔلُكُمْ أَ[q:2795[جْ][a:11206[رًا و]َه[w:4209[ُم م]ُّهْتَد[p[ُو]نَ",
+        "textUrdu": "ایسوں کے جو تم سے صلہ نہیں مانگتے اور وہ سیدھے رستے پر ہیں",
+        "textEnglish": "Follow those who do not ask of you [any] payment, and they are [rightly] guided."
+      },
+      {
+        "verseNumber": 22,
+        "textArabic": "وَمَا لِىَ ل[o[َآ] أَعْبُدُ [h:11207[ٱ]لَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَع[p[ُو]نَ",
+        "textUrdu": "اور مجھے کیا ہے میں اس کی پرستش نہ کروں جس نے مجھے پیدا کیا اور اسی کی طرف تم کو لوٹ کر جانا ہے",
+        "textEnglish": "And why should I not worship He who created me and to whom you will be returned?"
+      },
+      {
+        "verseNumber": 23,
+        "textArabic": "ءَأَتَّخِذُ مِ[f:3136[ن د]ُونِه[o[ِۦٓ] ءَالِهَةً إ[a:11208[ِن ي]ُرِ[q:11209[دْ]نِ [h:11210[ٱ][l[ل]رَّحْمَ[n[ـٰ]نُ بِضُ[u:11211[رٍّ ل]َّا تُغْنِ عَ[g[نّ]ِى شَفَ[n[ـٰ]عَتُهُمْ شَيْـ[a:232[ـًٔا و]َلَا يُ[f:11212[نق]ِذ[p[ُو]نِ",
+        "textUrdu": "کیا میں ان کو چھوڑ کر اوروں کو معبود بناؤں؟ اگر خدا میرے حق میں نقصان کرنا چاہے تو ان کی سفارش مجھے کچھ بھی فائدہ نہ دے سکے اور نہ وہ مجھ کو چھڑا ہی سکیں",
+        "textEnglish": "Should I take other than Him [false] deities [while], if the Most Merciful intends for me some adversity, their intercession will not avail me at all, nor can they save me?"
+      },
+      {
+        "verseNumber": 24,
+        "textArabic": "إِ[g[نّ][o[ِىٓ] إِ[u:11213[ذًا ل]َّفِى ضَلَ[n[ـٰ][a:2393[لٍ م]ُّب[p[ِي]نٍ",
+        "textUrdu": "تب تو میں صریح گمراہی میں مبتلا ہوگیا",
+        "textEnglish": "Indeed, I would then be in manifest error."
+      },
+      {
+        "verseNumber": 25,
+        "textArabic": "إِ[g[نّ][o[ِىٓ] ءَامَ[f:6185[نت]ُ بِرَبِّكُمْ فَ[h:11214[ٱ]سْمَع[p[ُو]نِ",
+        "textUrdu": "میں تمہارے پروردگار پر ایمان لایا ہوں سو میری بات سن رکھو",
+        "textEnglish": "Indeed, I have believed in your Lord, so listen to me.\""
+      },
+      {
+        "verseNumber": 26,
+        "textArabic": "قِيلَ [h:11215[ٱ][q:11216[دْ]خُلِ [h:11217[ٱ]لْجَ[g[نّ]َةَۖ قَالَ يَ[n[ـٰ]لَيْتَ قَوْمِى يَعْلَم[p[ُو]نَ",
+        "textUrdu": "حکم ہوا کہ بہشت میں داخل ہوجا۔ بولا کاش! میری قوم کو خبر ہو",
+        "textEnglish": "It was said, \"Enter Paradise.\" He said, \"I wish my people could know"
+      },
+      {
+        "verseNumber": 27,
+        "textArabic": "بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ [h:11218[ٱ]لْمُكْرَم[p[ِي]نَ",
+        "textUrdu": "کہ خدا نے مجھے بخش دیا اور عزت والوں میں کیا",
+        "textEnglish": "Of how my Lord has forgiven me and placed me among the honored.\""
+      },
+      {
+        "verseNumber": 28,
+        "textArabic": "۞ وَم[o[َآ] أَ[f:515[نز]َلْنَا عَلَىٰ قَوْمِه[n[ِۦ] م[i:254[ِنۢ ب]َعْدِه[n[ِۦ] مِ[f:11219[ن ج]ُن[a:11220[دٍ م]ِّنَ [h:64[ٱ][l[ل]سَّم[o[َا]ٓءِ وَمَا كُ[g[نّ]َا مُ[f:11221[نز]ِل[p[ِي]نَ",
+        "textUrdu": "اور ہم نے اس کے بعد اس کی قوم پر کوئی لشکر نہیں اُتارا اور نہ ہم اُتارنے والے تھے ہی",
+        "textEnglish": "And We did not send down upon his people after him any soldiers from the heaven, nor would We have done so."
+      },
+      {
+        "verseNumber": 29,
+        "textArabic": "إِ[f:489[ن ك]َانَتْ إِلَّا صَيْحَ[a:11222[ةً و][n[َٲ]حِدَ[f:11223[ةً ف]َإِذَا هُمْ خَ[n[ـٰ]مِد[p[ُو]نَ",
+        "textUrdu": "وہ تو صرف ایک چنگھاڑ تھی (آتشین) سو وہ (اس سے) ناگہاں بجھ کر رہ گئے",
+        "textEnglish": "It was not but one shout, and immediately they were extinguished."
+      },
+      {
+        "verseNumber": 30,
+        "textArabic": "يَ[n[ـٰ]حَسْرَةً عَلَى [h:11224[ٱ]لْعِبَادِ‌ۚ مَا يَأْتِيه[w:7205[ِم م]ّ[u:2882[ِن ر]َّسُولٍ إِلَّا كَانُو[s[اْ] بِه[n[ِۦ] يَسْتَهْزِء[p[ُو]نَ",
+        "textUrdu": "بندوں پر افسوس ہے کہ ان کے پاس کوئی پیغمبر نہیں آتا مگر اس سے تمسخر کرتے ہیں",
+        "textEnglish": "How regretful for the servants. There did not come to them any messenger except that they used to ridicule him."
+      },
+      {
+        "verseNumber": 31,
+        "textArabic": "أَلَمْ يَرَوْ[s[اْ] كَمْ أَهْلَكْنَا قَ[q:8394[بْ]لَه[w:8646[ُم م]ِّنَ [h:6524[ٱ]لْقُرُونِ أَ[g[نّ]َهُمْ إِلَيْهِمْ لَا يَرْجِع[p[ُو]نَ",
+        "textUrdu": "کیا انہوں نے نہیں دیکھا کہ ہم نے ان سے پہلے بہت سے لوگوں کو ہلاک کردیا تھا اب وہ ان کی طرف لوٹ کر نہیں آئیں گے",
+        "textEnglish": "Have they not considered how many generations We destroyed before them - that they to them will not return?"
+      },
+      {
+        "verseNumber": 32,
+        "textArabic": "وَإِ[f:11225[ن ك]ُ[u:11226[لٌّ ل]َّ[g[مّ]َا جَمِي[u:11227[عٌ ل]َّدَيْنَا مُحْضَر[p[ُو]نَ",
+        "textUrdu": "اور سب کے سب ہمارے روبرو حاضر کيے جائیں گے",
+        "textEnglish": "And indeed, all of them will yet be brought present before Us."
+      },
+      {
+        "verseNumber": 33,
+        "textArabic": "وَءَايَ[u:11228[ةٌ ل]َّهُمُ [h:11229[ٱ]لْأَرْضُ [h:11230[ٱ]لْمَيْتَةُ أَحْيَيْنَ[n[ـٰ]هَا وَأَخْرَ[q:11231[جْ]نَا مِنْهَا حَب[f:11232[ًّا ف]َمِنْهُ يَأْكُل[p[ُو]نَ",
+        "textUrdu": "اور ایک نشانی ان کے لئے زمین مردہ ہے کہ ہم نے اس کو زندہ کیا اور اس میں سے اناج اُگایا۔ پھر یہ اس میں سے کھاتے ہیں",
+        "textEnglish": "And a sign for them is the dead earth. We have brought it to life and brought forth from it grain, and from it they eat."
+      },
+      {
+        "verseNumber": 34,
+        "textArabic": "وَجَعَلْنَا فِيهَا جَ[g[نّ]َ[n[ـٰ][a:9169[تٍ م]ّ[a:1568[ِن ن]َّخِي[a:1569[لٍ و]َأَعْنَ[n[ـٰ][a:11233[بٍ و]َفَجَّرْنَا فِيهَا مِنَ [h:11234[ٱ]لْعُي[p[ُو]نِ",
+        "textUrdu": "اور اس میں کھجوروں اور انگوروں کے باغ پیدا کیے اور اس میں چشمے جاری کردیئے",
+        "textEnglish": "And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -"
+      },
+      {
+        "verseNumber": 35,
+        "textArabic": "لِيَأْكُلُو[s[اْ] مِ[f:4468[ن ث]َمَرِه[n[ِۦ] وَمَا عَمِلَتْهُ أَيْدِيهِمْ‌ۖ أَفَلَا يَشْكُر[p[ُو]نَ",
+        "textUrdu": "تاکہ یہ ان کے پھل کھائیں اور ان کے ہاتھوں نے تو ان کو نہیں بنایا تو پھر یہ شکر کیوں نہیں کرتے؟",
+        "textEnglish": "That they may eat of His fruit. And their hands have not produced it, so will they not be grateful?"
+      },
+      {
+        "verseNumber": 36,
+        "textArabic": "سُ[q:7648[بْ]حَ[n[ـٰ]نَ [h:7649[ٱ]لَّذِى خَلَقَ [h:11235[ٱ]لْأَزْو[n[َٲ]جَ كُلَّهَا مِ[g[مّ]َا تُ[i:308[نۢب]ِتُ [h:309[ٱ]لْأَرْضُ وَمِنْ أَ[f:568[نف]ُسِهِمْ وَمِ[g[مّ]َا لَا يَعْلَم[p[ُو]نَ",
+        "textUrdu": "وہ خدا پاک ہے جس نے زمین کی نباتات کے اور خود ان کے اور جن چیزوں کی ان کو خبر نہیں سب کے جوڑے بنائے",
+        "textEnglish": "Exalted is He who created all pairs - from what the earth grows and from themselves and from that which they do not know."
+      },
+      {
+        "verseNumber": 37,
+        "textArabic": "وَءَايَ[u:11228[ةٌ ل]َّهُمُ [h:11236[ٱ]لَّيْلُ نَسْلَخُ مِنْهُ [h:11237[ٱ][l[ل][g[نّ]َهَارَ فَإِذَا ه[w:11238[ُم م]ُّظْلِم[p[ُو]نَ",
+        "textUrdu": "اور ایک نشانی ان کے لئے رات ہے کہ اس میں سے ہم دن کو کھینچ لیتے ہیں تو اس وقت ان پر اندھیرا چھا جاتا ہے",
+        "textEnglish": "And a sign for them is the night. We remove from it [the light of] day, so they are [left] in darkness."
+      },
+      {
+        "verseNumber": 38,
+        "textArabic": "وَ[h:9999[ٱ][l[ل]شَّمْسُ تَ[q:120[جْ]رِى لِمُسْتَقَ[u:11239[رٍّ ل]َّهَا‌ۚ ذ[n[َٲ]لِكَ تَ[q:4267[قْ]دِيرُ [h:4268[ٱ]لْعَزِيزِ [h:4269[ٱ]لْعَل[p[ِي]مِ",
+        "textUrdu": "اور سورج اپنے مقرر رستے پر چلتا رہتا ہے۔ یہ (خدائے) غالب اور دانا کا (مقرر کیا ہوا) اندازہ ہے",
+        "textEnglish": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing."
+      },
+      {
+        "verseNumber": 39,
+        "textArabic": "وَ[h:9999[ٱ]لْقَمَرَ قَدَّرْنَ[n[ـٰ]هُ مَنَازِلَ حَتَّىٰ عَادَ كَ[h:11240[ٱ]لْعُرْجُونِ [h:11241[ٱ]لْقَد[p[ِي]مِ",
+        "textUrdu": "اور چاند کی بھی ہم نے منزلیں مقرر کردیں یہاں تک کہ (گھٹتے گھٹتے) کھجور کی پرانی شاخ کی طرح ہو جاتا ہے",
+        "textEnglish": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk."
+      },
+      {
+        "verseNumber": 40,
+        "textArabic": "لَا [h:11242[ٱ][l[ل]شَّمْسُ يَ[i:8425[نۢب]َغِى لَه[o[َآ] أَ[f:11243[ن ت]ُ[q:11244[دْ]رِكَ [h:11245[ٱ]لْقَمَرَ وَلَا [h:11246[ٱ]لَّيْلُ سَابِقُ [h:11247[ٱ][l[ل][g[نّ]َهَارِ‌ۚ وَكُ[f:11248[لٌّ ف]ِى فَلَ[a:8732[كٍ ي]َسْبَح[p[ُو]نَ",
+        "textUrdu": "نہ تو سورج ہی سے ہوسکتا ہے کہ چاند کو جا پکڑے اور نہ رات ہی دن سے پہلے آسکتی ہے۔ اور سب اپنے اپنے دائرے میں تیر رہے ہیں",
+        "textEnglish": "It is not allowable for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming."
+      },
+      {
+        "verseNumber": 41,
+        "textArabic": "وَءَايَ[u:11249[ةٌ ل]َّهُمْ أَ[g[نّ]َا حَمَلْنَا ذُرِّيَّتَهُمْ فِى [h:4780[ٱ]لْفُلْكِ [h:9808[ٱ]لْمَشْح[p[ُو]نِ",
+        "textUrdu": "اور ایک نشانی ان کے لئے یہ ہے کہ ہم نے ان کی اولاد کو بھری ہوئی کشتی میں سوار کیا",
+        "textEnglish": "And a sign for them is that We carried their forefathers in a laden ship."
+      },
+      {
+        "verseNumber": 42,
+        "textArabic": "وَخَلَ[q:11250[قْ]نَا لَه[w:1812[ُم م]ّ[a:104[ِن م]ِّثْلِه[n[ِۦ] مَا يَرْكَب[p[ُو]نَ",
+        "textUrdu": "اور ان کے لئے ویسی ہی اور چیزیں پیدا کیں جن پر وہ سوار ہوتے ہیں",
+        "textEnglish": "And We created for them from the likes of it that which they ride."
+      },
+      {
+        "verseNumber": 43,
+        "textArabic": "وَإ[a:11251[ِن ن]َّشَأْ نُغْرِ[q:11252[قْ]هُمْ فَلَا صَرِيخَ لَهُمْ وَلَا هُمْ يُ[f:11253[نق]َذ[p[ُو]نَ",
+        "textUrdu": "اور اگر ہم چاہیں تو ان کو غرق کردیں۔ پھر نہ تو ان کا کوئی فریاد رس ہوا اور نہ ان کو رہائی ملے",
+        "textEnglish": "And if We should will, We could drown them; then no one responding to a cry would there be for them, nor would they be saved"
+      },
+      {
+        "verseNumber": 44,
+        "textArabic": "إِلَّا رَحْمَ[a:11254[ةً م]ِّ[g[نّ]َا وَمَتَ[n[ـٰ]عًا إِلَىٰ ح[p[ِي]نٍ",
+        "textUrdu": "مگر یہ ہماری رحمت اور ایک مدت تک کے فائدے ہیں",
+        "textEnglish": "Except as a mercy from Us and provision for a time."
+      },
+      {
+        "verseNumber": 45,
+        "textArabic": "وَإِذَا قِيلَ لَهُمُ [h:11255[ٱ]تَّقُو[s[اْ] مَا بَيْنَ أَيْدِيكُمْ وَمَا خَلْفَكُمْ لَعَلَّكُمْ تُرْحَم[p[ُو]نَ",
+        "textUrdu": "اور جب ان سے کہا جاتا ہے کہ جو تمہارے آگے اور جو تمہارے پیچھے ہے اس سے ڈرو تاکہ تم پر رحم کیا جائے",
+        "textEnglish": "But when it is said to them, \"Beware of what is before you and what is behind you; perhaps you will receive mercy... \""
+      },
+      {
+        "verseNumber": 46,
+        "textArabic": "وَمَا تَأْتِيه[w:3923[ِم م]ِّنْ ءَايَ[a:3924[ةٍ م]ِّنْ ءَايَ[n[ـٰ]تِ رَبِّهِمْ إِلَّا كَانُو[s[اْ] عَنْهَا مُعْرِض[p[ِي]نَ",
+        "textUrdu": "اور ان کے پاس ان کے پروردگار کی کوئی نشانی نہیں آتی مگر اس سے منہ پھیر لیتے ہیں",
+        "textEnglish": "And no sign comes to them from the signs of their Lord except that they are from it turning away."
+      },
+      {
+        "verseNumber": 47,
+        "textArabic": "وَإِذَا قِيلَ لَهُمْ أَ[f:1460[نف]ِقُو[s[اْ] مِ[g[مّ]َا رَزَقَكُمُ [h:3751[ٱ]للَّهُ قَالَ [h:590[ٱ]لَّذِينَ كَفَرُو[s[اْ] لِلَّذِينَ ءَامَن[o[ُوٓ][s[اْ] أَنُ[q:11256[طْ]عِمُ م[u:11257[َن ل]َّوْ يَش[o[َا]ٓءُ [h:6988[ٱ]للَّهُ أَ[q:11258[طْ]عَمَهُ[o[ۥٓ] إِنْ أَ[f:428[نت]ُمْ إِلَّا فِى ضَلَ[n[ـٰ][a:2393[لٍ م]ُّب[p[ِي]نٍ",
+        "textUrdu": "اور جب ان سے کہا جاتا ہے کہ جو رزق خدا نے تم کو دیا ہے اس میں سے خرچ کرو۔ تو کافر مومنوں سے کہتے ہیں کہ بھلا ہم ان لوگوں کو کھانا کھلائیں جن کو اگر خدا چاہتا تو خود کھلا دیتا۔ تم تو صریح غلطی میں ہو",
+        "textEnglish": "And when it is said to them, \"Spend from that which Allah has provided for you,\" those who disbelieve say to those who believe, \"Should we feed one whom, if Allah had willed, He would have fed? You are not but in clear error.\""
+      },
+      {
+        "verseNumber": 48,
+        "textArabic": "وَيَقُولُونَ مَتَىٰ هَ[n[ـٰ]ذَا [h:6081[ٱ]لْوَعْدُ إِ[f:109[ن ك]ُ[f:100[نت]ُمْ صَ[n[ـٰ]دِق[p[ِي]نَ",
+        "textUrdu": "اور کہتے ہیں اگر تم سچ کہتے ہو تو یہ وعدہ کب (پورا) ہوگا؟",
+        "textEnglish": "And they say, \"When is this promise, if you should be truthful?\""
+      },
+      {
+        "verseNumber": 49,
+        "textArabic": "مَا يَ[f:1141[نظ]ُرُونَ إِلَّا صَيْحَ[a:11222[ةً و][n[َٲ]حِدَ[f:11259[ةً ت]َأْخُذُهُمْ وَهُمْ يَخِصِّم[p[ُو]نَ",
+        "textUrdu": "یہ تو ایک چنگھاڑ کے منتظر ہیں جو ان کو اس حال میں کہ باہم جھگڑ رہے ہوں گے آپکڑے گی",
+        "textEnglish": "They do not await except one blast which will seize them while they are disputing."
+      },
+      {
+        "verseNumber": 50,
+        "textArabic": "فَلَا يَسْتَطِيعُونَ تَوْصِيَ[a:11260[ةً و]َل[o[َآ] إِلَ[o[ىٰٓ] أَهْلِهِمْ يَرْجِع[p[ُو]نَ",
+        "textUrdu": "پھر نہ وصیت کرسکیں گے اور نہ اپنے گھر والوں میں واپس جاسکیں گے",
+        "textEnglish": "And they will not be able [to give] any instruction, nor to their people can they return."
+      },
+      {
+        "verseNumber": 51,
+        "textArabic": "وَنُفِخَ فِى [h:4185[ٱ][l[ل]صُّورِ فَإِذَا ه[w:10171[ُم م]ِّنَ [h:11261[ٱ]لْأَ[q:11262[جْ]دَاثِ إِلَىٰ رَبِّهِمْ يَ[f:8857[نس]ِل[p[ُو]نَ",
+        "textUrdu": "اور (جس وقت) صور پھونکا جائے گا یہ قبروں سے (نکل کر) اپنے پروردگار کی طرف دوڑ پڑیں گے",
+        "textEnglish": "And the Horn will be blown; and at once from the graves to their Lord they will hasten."
+      },
+      {
+        "verseNumber": 52,
+        "textArabic": "قَالُو[s[اْ] يَ[n[ـٰ]وَيْلَنَا م[i:11263[َنۢ ب]َعَثَنَا م[a:11264[ِن م]َّرْقَدِنَاۜ‌ۗ هَ[n[ـٰ]ذَا مَا وَعَدَ [h:8377[ٱ][l[ل]رَّحْمَ[n[ـٰ]نُ وَصَدَقَ [h:11265[ٱ]لْمُرْسَل[p[ُو]نَ",
+        "textUrdu": "کہیں گے اے ہے ہمیں ہماری خوابگاہوں سے کس نے (جگا) اُٹھایا؟ یہ وہی تو ہے جس کا خدا نے وعدہ کیا تھا اور پیغمبروں نے سچ کہا تھا",
+        "textEnglish": "They will say, \"O woe to us! Who has raised us up from our sleeping place?\" [The reply will be], \"This is what the Most Merciful had promised, and the messengers told the truth.\""
+      },
+      {
+        "verseNumber": 53,
+        "textArabic": "إِ[f:489[ن ك]َانَتْ إِلَّا صَيْحَ[a:11222[ةً و][n[َٲ]حِدَ[f:11223[ةً ف]َإِذَا هُمْ جَمِي[u:11227[عٌ ل]َّدَيْنَا مُحْضَر[p[ُو]نَ",
+        "textUrdu": "صرف ایک زور کی آواز کا ہونا ہوگا کہ سب کے سب ہمارے روبرو آحاضر ہوں گے",
+        "textEnglish": "It will not be but one blast, and at once they are all brought present before Us."
+      },
+      {
+        "verseNumber": 54,
+        "textArabic": "فَ[h:9999[ٱ]لْيَوْمَ لَا تُظْلَمُ نَفْ[f:8774[سٌ ش]َيْـ[a:232[ـًٔا و]َلَا تُ[q:4248[جْ]زَوْنَ إِلَّا مَا كُ[f:100[نت]ُمْ تَعْمَل[p[ُو]نَ",
+        "textUrdu": "اس روز کسی شخص پر کچھ ظلم نہیں کیا جائے گا اور تم کو بدلہ ویسا ہی ملے گا جیسے تم کام کرتے تھے",
+        "textEnglish": "So today no soul will be wronged at all, and you will not be recompensed except for what you used to do."
+      },
+      {
+        "verseNumber": 55,
+        "textArabic": "إِ[g[نّ]َ أَصْحَ[n[ـٰ]بَ [h:4715[ٱ]لْجَ[g[نّ]َةِ [h:11266[ٱ]لْيَوْمَ فِى شُغُ[f:11267[لٍ ف]َ[n[ـٰ]كِه[p[ُو]نَ",
+        "textUrdu": "اہل جنت اس روز عیش ونشاط کے مشغلے میں ہوں گے",
+        "textEnglish": "Indeed the companions of Paradise, that Day, will be amused in [joyful] occupation -"
+      },
+      {
+        "verseNumber": 56,
+        "textArabic": "هُمْ وَأَزْو[n[َٲ]جُهُمْ فِى ظِلَ[n[ـٰ]لٍ عَلَى [h:8058[ٱ]لْأَر[o[َا]ٓئِكِ مُتَّكِــٔ[p[ُو]نَ",
+        "textUrdu": "وہ بھی اور ان کی بیویاں بھی سایوں میں تختوں پر تکیے لگائے بیٹھے ہوں گے",
+        "textEnglish": "They and their spouses - in shade, reclining on adorned couches."
+      },
+      {
+        "verseNumber": 57,
+        "textArabic": "لَهُمْ فِيهَا فَ[n[ـٰ]كِهَ[a:11268[ةٌ و]َلَه[w:7443[ُم م]َّا يَدَّع[p[ُو]نَ",
+        "textUrdu": "وہاں ان کے لئے میوے اور جو چاہیں گے (موجود ہوگا)",
+        "textEnglish": "For them therein is fruit, and for them is whatever they request [or wish]"
+      },
+      {
+        "verseNumber": 58,
+        "textArabic": "سَلَ[n[ـٰ][f:11269[مٌ ق]َوْل[a:11270[اً م]ّ[u:11271[ِن ر]َّ[u:11272[بٍّ ر]َّح[p[ِي]مٍ",
+        "textUrdu": "پروردگار مہربان کی طرف سے سلام (کہا جائے گا)",
+        "textEnglish": "[And] \"Peace,\" a word from a Merciful Lord."
+      },
+      {
+        "verseNumber": 59,
+        "textArabic": "وَ[h:9999[ٱ]مْتَ[n[ـٰ]زُو[s[اْ] [h:11273[ٱ]لْيَوْمَ أَيُّهَا [h:11274[ٱ]لْمُ[q:5255[جْ]رِم[p[ُو]نَ",
+        "textUrdu": "اور گنہگارو! آج الگ ہوجاؤ",
+        "textEnglish": "[Then He will say], \"But stand apart today, you criminals."
+      },
+      {
+        "verseNumber": 60,
+        "textArabic": "۞ أَلَمْ أَعْهَ[q:11275[دْ] إِلَيْكُمْ يَ[n[ـٰ]بَن[o[ِىٓ] ءَادَمَ أ[u:4908[َن ل]َّا تَعْبُدُو[s[اْ] [h:11276[ٱ][l[ل]شَّيْطَ[n[ـٰ]نَ‌ۖ إِ[g[نّ]َهُ[n[ۥ] لَكُمْ عَدُ[a:873[وٌّ م]ُّب[p[ِي]نٌ",
+        "textUrdu": "اے آدم کی اولاد ہم نے تم سے کہہ نہیں دیا تھا کہ شیطان کو نہ پوجنا وہ تمہارا کھلا دشمن ہے",
+        "textEnglish": "Did I not enjoin upon you, O children of Adam, that you not worship Satan - [for] indeed, he is to you a clear enemy -"
+      },
+      {
+        "verseNumber": 61,
+        "textArabic": "وَأَنِ [h:11277[ٱ]عْبُدُونِى‌ۚ هَ[n[ـٰ]ذَا صِر[n[َٲ][a:1947[طٌ م]ُّسْتَق[p[ِي]مٌ",
+        "textUrdu": "اور یہ کہ میری ہی عبادت کرنا۔ یہی سیدھا رستہ ہے",
+        "textEnglish": "And that you worship [only] Me? This is a straight path."
+      },
+      {
+        "verseNumber": 62,
+        "textArabic": "وَلَقَ[q:341[دْ] أَضَلَّ مِ[f:344[نك]ُمْ جِبِل[f:11278[اًّ ك]َثِيرًا‌ۖ أَفَلَمْ تَكُونُو[s[اْ] تَعْقِل[p[ُو]نَ",
+        "textUrdu": "اور اس نے تم میں سے بہت سی خلقت کو گمراہ کردیا تھا۔ تو کیا تم سمجھتے نہیں تھے؟",
+        "textEnglish": "And he had already led astray from among you much of creation, so did you not use reason?"
+      },
+      {
+        "verseNumber": 63,
+        "textArabic": "هَ[n[ـٰ]ذِه[n[ِۦ] جَهَ[g[نّ]َمُ [h:11279[ٱ]لَّتِى كُ[f:100[نت]ُمْ تُوعَد[p[ُو]نَ",
+        "textUrdu": "یہی وہ جہنم ہے جس کی تمہیں خبر دی جاتی ہے",
+        "textEnglish": "This is the Hellfire which you were promised."
+      },
+      {
+        "verseNumber": 64,
+        "textArabic": "ٱصْلَوْهَا [h:11280[ٱ]لْيَوْمَ بِمَا كُ[f:100[نت]ُمْ تَكْفُر[p[ُو]نَ",
+        "textUrdu": "(سو) جو تم کفر کرتے رہے ہو اس کے بدلے آج اس میں داخل ہوجاؤ",
+        "textEnglish": "[Enter to] burn therein today for what you used to deny.\""
+      },
+      {
+        "verseNumber": 65,
+        "textArabic": "ٱلْيَوْمَ نَخْتِمُ عَلَ[o[ىٰٓ] أَفْو[n[َٲ]هِهِمْ وَتُكَلِّمُن[o[َآ] أَيْدِيهِمْ وَتَشْهَدُ أَرْجُلُه[c:11281[ُم ب]ِمَا كَانُو[s[اْ] يَكْسِب[p[ُو]نَ",
+        "textUrdu": "آج ہم ان کے مونہوں پر مہر لگا دیں گے اور جو کچھ یہ کرتے رہے تھے ان کے ہاتھ ہم سے بیان کردیں گے اور ان کے پاؤں (اس کی) گواہی دیں گے",
+        "textEnglish": "That Day, We will seal over their mouths, and their hands will speak to Us, and their feet will testify about what they used to earn."
+      },
+      {
+        "verseNumber": 66,
+        "textArabic": "وَلَوْ نَش[o[َا]ٓءُ لَطَمَسْنَا عَلَ[o[ىٰٓ] أَعْيُنِهِمْ فَ[h:11282[ٱ]سْتَبَقُو[s[اْ] [h:11283[ٱ][l[ل]صِّر[n[َٲ]طَ فَأَ[g[نّ]َىٰ يُ[q:60[بْ]صِر[p[ُو]نَ",
+        "textUrdu": "اور اگر ہم چاہیں تو ان کی آنکھوں کو مٹا کر (اندھا کر) دیں۔ پھر یہ رستے کو دوڑیں تو کہاں دیکھ سکیں گے",
+        "textEnglish": "And if We willed, We could have obliterated their eyes, and they would race to [find] the path, and how could they see?"
+      },
+      {
+        "verseNumber": 67,
+        "textArabic": "وَلَوْ نَش[o[َا]ٓءُ لَمَسَخْنَ[n[ـٰ]هُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا [h:11284[ٱ]سْتَطَ[n[ـٰ]عُو[s[اْ] مُضِي[a:11285[ًّا و]َلَا يَرْجِع[p[ُو]نَ",
+        "textUrdu": "اور اگر ہم چاہیں تو ان کی جگہ پر ان کی صورتیں بدل دیں پھر وہاں سے نہ آگے جاسکیں اور نہ (پیچھے) لوٹ سکیں",
+        "textEnglish": "And if We willed, We could have deformed them, [paralyzing them] in their places so they would not be able to proceed, nor could they return."
+      },
+      {
+        "verseNumber": 68,
+        "textArabic": "وَم[a:11286[َن ن]ُّعَ[g[مّ]ِرْهُ نُنَكِّسْهُ فِى [h:4788[ٱ]لْخَلْقِ‌ۖ أَفَلَا يَعْقِل[p[ُو]نَ",
+        "textUrdu": "اور جس کو ہم بڑی عمر دیتے ہیں تو اسے خلقت میں اوندھا کردیتے ہیں تو کیا یہ سمجھتے نہیں؟",
+        "textEnglish": "And he to whom We grant long life We reverse in creation; so will they not understand?"
+      },
+      {
+        "verseNumber": 69,
+        "textArabic": "وَمَا عَلَّمْنَ[n[ـٰ]هُ [h:11287[ٱ][l[ل]شِّعْرَ وَمَا يَ[i:8425[نۢب]َغِى لَهُ[o[ۥٓ‌ۚ] إِنْ هُوَ إِلَّا ذِكْ[a:11288[رٌ و]َقُرْءَا[a:11289[نٌ م]ُّب[p[ِي]نٌ",
+        "textUrdu": "اور ہم نے ان (پیغمبر) کو شعر گوئی نہیں سکھائی اور نہ وہ ان کو شایاں ہے۔ یہ تو محض نصیحت اور صاف صاف قرآن (پُرازحکمت) ہے",
+        "textEnglish": "And We did not give Prophet Muhammad, knowledge of poetry, nor is it befitting for him. It is not but a message and a clear Qur'an"
+      },
+      {
+        "verseNumber": 70,
+        "textArabic": "لِّيُ[f:7947[نذ]ِرَ مَ[f:506[ن ك]َانَ حَي[a:11290[ًّا و]َيَحِقَّ [h:11291[ٱ]لْقَوْلُ عَلَى [h:468[ٱ]لْكَ[n[ـٰ]فِر[p[ِي]نَ",
+        "textUrdu": "تاکہ اس شخص کو جو زندہ ہو ہدایت کا رستہ دکھائے اور کافروں پر بات پوری ہوجائے",
+        "textEnglish": "To warn whoever is alive and justify the word against the disbelievers."
+      },
+      {
+        "verseNumber": 71,
+        "textArabic": "أَوَلَمْ يَرَوْ[s[اْ] أَ[g[نّ]َا خَلَ[q:5159[قْ]نَا لَه[w:402[ُم م]ِّ[g[مّ]َا عَمِلَتْ أَيْدِين[o[َآ] أَنْعَ[n[ـٰ][f:11292[مًا ف]َهُمْ لَهَا مَ[n[ـٰ]لِك[p[ُو]نَ",
+        "textUrdu": "کیا انہوں نے نہیں دیکھا کہ جو چیزیں ہم نے اپنے ہاتھوں سے بنائیں ان میں سے ہم نے ان کے لئے چارپائے پیدا کر دیئے اور یہ ان کے مالک ہیں",
+        "textEnglish": "Do they not see that We have created for them from what Our hands have made, grazing livestock, and [then] they are their owners?"
+      },
+      {
+        "verseNumber": 72,
+        "textArabic": "وَذَلَّلْنَ[n[ـٰ]هَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُل[p[ُو]نَ",
+        "textUrdu": "اور ان کو ان کے قابو میں کردیا تو کوئی تو ان میں سے ان کی سواری ہے اور کسی کو یہ کھاتے ہیں",
+        "textEnglish": "And We have tamed them for them, so some of them they ride, and some of them they eat."
+      },
+      {
+        "verseNumber": 73,
+        "textArabic": "وَلَهُمْ فِيهَا مَنَ[n[ـٰ]فِعُ وَمَشَارِبُ‌ۖ أَفَلَا يَشْكُر[p[ُو]نَ",
+        "textUrdu": "اور ان میں ان کے لئے (اور) فائدے اور پینے کی چیزیں ہیں۔ تو یہ شکر کیوں نہیں کرتے؟",
+        "textEnglish": "And for them therein are [other] benefits and drinks, so will they not be grateful?"
+      },
+      {
+        "verseNumber": 74,
+        "textArabic": "وَ[h:9999[ٱ]تَّخَذُو[s[اْ] مِ[f:107[ن د]ُونِ [h:108[ٱ]للَّهِ ءَالِهَ[u:11293[ةً ل]َّعَلَّهُمْ يُ[f:237[نص]َر[p[ُو]نَ",
+        "textUrdu": "اور انہوں نے خدا کے سوا (اور) معبود بنا لیے ہیں کہ شاید (ان سے) ان کو مدد پہنچے",
+        "textEnglish": "But they have taken besides Allah [false] deities that perhaps they would be helped."
+      },
+      {
+        "verseNumber": 75,
+        "textArabic": "لَا يَسْتَطِيعُونَ نَصْرَهُمْ وَهُمْ لَهُمْ جُن[a:11294[دٌ م]ُّحْضَر[p[ُو]نَ",
+        "textUrdu": "(مگر) وہ ان کی مدد کی (ہرگز) طاقت نہیں رکھتے۔ اور وہ ان کی فوج ہو کر حاضر کیے جائیں گے",
+        "textEnglish": "They are not able to help them, and they [themselves] are for them soldiers in attendance."
+      },
+      {
+        "verseNumber": 76,
+        "textArabic": "فَلَا يَحْزُ[f:2435[نك]َ قَوْلُهُمْ‌ۘ إِ[g[نّ]َا نَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِن[p[ُو]نَ",
+        "textUrdu": "تو ان کی باتیں تمہیں غمناک نہ کردیں۔ یہ جو کچھ چھپاتے اور جو کچھ ظاہر کرتے ہیں ہمیں سب معلوم ہے",
+        "textEnglish": "So let not their speech grieve you. Indeed, We know what they conceal and what they declare."
+      },
+      {
+        "verseNumber": 77,
+        "textArabic": "أَوَلَمْ يَرَ [h:11295[ٱ]لْإِ[f:2732[نس]َ[n[ـٰ]نُ أَ[g[نّ]َا خَلَ[q:7232[قْ]نَ[n[ـٰ]هُ م[a:7325[ِن ن]ُّ[q:7326[طْ]فَ[f:7327[ةٍ ف]َإِذَا هُوَ خَصِي[a:7328[مٌ م]ُّب[p[ِي]نٌ",
+        "textUrdu": "کیا انسان نے نہیں دیکھا کہ ہم نے اس کو نطفے سے پیدا کیا۔ پھر وہ تڑاق پڑاق جھگڑنے لگا",
+        "textEnglish": "Does man not consider that We created him from a [mere] sperm-drop - then at once he is a clear adversary?"
+      },
+      {
+        "verseNumber": 78,
+        "textArabic": "وَضَرَبَ لَنَا مَثَل[a:11296[اً و]َنَسِىَ خَلْقَهُ[n[ۥ]‌ۖ قَالَ م[a:11297[َن ي]ُحْىِ [h:11298[ٱ]لْعِظَ[n[ـٰ]مَ وَهِىَ رَم[p[ِي]مٌ",
+        "textUrdu": "اور ہمارے بارے میں مثالیں بیان کرنے لگا اور اپنی پیدائش کو بھول گیا۔ کہنے لگا کہ (جب) ہڈیاں بوسیدہ ہوجائیں گی تو ان کو کون زندہ کرے گا؟",
+        "textEnglish": "And he presents for Us an example and forgets his [own] creation. He says, \"Who will give life to bones while they are disintegrated?\""
+      },
+      {
+        "verseNumber": 79,
+        "textArabic": "قُلْ يُحْيِيهَا [h:11299[ٱ]لَّذ[o[ِىٓ] أَ[f:11300[نش]َأَه[o[َآ] أَوَّلَ مَرَّ[a:11301[ةٍ‌ۖ و]َهُوَ بِكُلِّ خَلْقٍ عَل[p[ِي]مٌ",
+        "textUrdu": "کہہ دو کہ ان کو وہ زندہ کرے گا جس نے ان کو پہلی بار پیدا کیا تھا۔ اور وہ سب قسم کا پیدا کرنا جانتا ہے",
+        "textEnglish": "Say, \"He will give them life who produced them the first time; and He is, of all creation, Knowing.\""
+      },
+      {
+        "verseNumber": 80,
+        "textArabic": "ٱلَّذِى جَعَلَ لَك[w:1578[ُم م]ِّنَ [h:11302[ٱ][l[ل]شَّجَرِ [h:11303[ٱ]لْأَخْضَرِ نَا[f:11304[رًا ف]َإِذ[o[َآ] أَ[f:428[نت][w:11305[ُم م]ِّنْهُ تُوقِد[p[ُو]نَ",
+        "textUrdu": "جس نے تمہارے لئے سبز درخت سے آگ پیدا کی پھر تم اس (کی ٹہنیوں کو رگڑ کر ان) سے آگ نکالتے ہو",
+        "textEnglish": "[It is] He who made for you from the green tree, fire, and then from it you ignite."
+      },
+      {
+        "verseNumber": 81,
+        "textArabic": "أَوَلَيْسَ [h:11306[ٱ]لَّذِى خَلَقَ [h:3913[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:1474[ٱ]لْأَرْضَ بِقَ[n[ـٰ]دِرٍ عَلَ[o[ىٰٓ] أ[a:7911[َن ي]َخْلُقَ مِثْلَه[c:11307[ُم‌ۚ ب]َلَىٰ وَهُوَ [h:11308[ٱ]لْخَلَّ[n[ـٰ]قُ [h:7305[ٱ]لْعَل[p[ِي]مُ",
+        "textUrdu": "بھلا جس نے آسمانوں اور زمین کو پیدا کیا، کیا وہ اس بات پر قادر نہیں کہ (ان کو پھر) ویسے ہی پیدا کر دے۔ کیوں نہیں۔ اور وہ تو بڑا پیدا کرنے والا اور علم والا ہے",
+        "textEnglish": "Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator."
+      },
+      {
+        "verseNumber": 82,
+        "textArabic": "إِ[g[نّ]َم[o[َآ] أَمْرُهُ[o[ۥٓ] إِذ[o[َآ] أَرَادَ شَيْــًٔا أ[a:11309[َن ي]َقُولَ لَهُ[n[ۥ] كُ[f:613[ن ف]َيَك[p[ُو]نُ",
+        "textUrdu": "اس کی شان یہ ہے کہ جب وہ کسی چیز کا ارادہ کرتا ہے تو اس سے فرما دیتا ہے کہ ہوجا تو وہ ہوجاتی ہے",
+        "textEnglish": "His command is only when He intends a thing that He says to it, \"Be,\" and it is."
+      },
+      {
+        "verseNumber": 83,
+        "textArabic": "فَسُ[q:8705[بْ]حَ[n[ـٰ]نَ [h:11310[ٱ]لَّذِى بِيَدِه[n[ِۦ] مَلَكُوتُ كُلِّ ش[a:11311[َىْءٍ و]َإِلَيْهِ تُرْجَع[p[ُو]نَ",
+        "textUrdu": "وہ (ذات) پاک ہے جس کے ہاتھ میں ہر چیز کی بادشاہت ہے اور اسی کی طرف تم کو لوٹ کر جانا ہے",
+        "textEnglish": "So exalted is He in whose hand is the realm of all things, and to Him you will be returned."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "number": 55,
+    "nameArabic": "سُورَةُ الرَّحۡمَٰن",
+    "nameEnglish": "Ar-Rahmaan",
+    "nameUrdu": "سورۃ الرحمٰن",
+    "meaning": "The Beneficent (عروس القرآن - دلہنِ قرآن)",
+    "versesCount": 78,
+    "revelationType": "Medinan",
+    "benefitsUrdu": "عروس القرآن یعنی قرآن کی زینت۔ نعمتوں کا شکر اور دل کے سکون و روحانی اطمینان کے لیے بے مثال سورت۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/055.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "ٱ[l[ل]رَّحْمَ[p[ـٰ]نُ",
+        "textUrdu": "(خدا جو) نہایت مہربان",
+        "textEnglish": "The Most Merciful"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "عَلَّمَ [h:13123[ٱ]لْقُرْء[p[َا]نَ",
+        "textUrdu": "اسی نے قرآن کی تعلیم فرمائی",
+        "textEnglish": "Taught the Qur'an,"
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "خَلَقَ [h:7324[ٱ]لْإِ[f:5969[نس]َ[p[ـٰ]نَ",
+        "textUrdu": "اسی نے انسان کو پیدا کیا",
+        "textEnglish": "Created man,"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "عَلَّمَهُ [h:13124[ٱ]لْبَي[p[َا]نَ",
+        "textUrdu": "اسی نے اس کو بولنا سکھایا",
+        "textEnglish": "[And] taught him eloquence."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "ٱ[l[ل]شَّمْسُ وَ[h:8956[ٱ]لْقَمَرُ بِحُسْب[p[َا]نٍ",
+        "textUrdu": "سورج اور چاند ایک حساب مقرر سے چل رہے ہیں",
+        "textEnglish": "The sun and the moon [move] by precise calculation,"
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "وَ[h:9999[ٱ][l[ل][g[نّ]َ[q:13125[جْ]مُ وَ[h:8958[ٱ][l[ل]شَّجَرُ يَسْجُد[p[َا]نِ",
+        "textUrdu": "اور بوٹیاں اور درخت سجدہ کر رہے ہیں",
+        "textEnglish": "And the stars and trees prostrate."
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "وَ[h:9999[ٱ][l[ل]سَّم[o[َا]ٓءَ رَفَعَهَا وَوَضَعَ [h:13126[ٱ]لْمِيز[p[َا]نَ",
+        "textUrdu": "اور اسی نے آسمان کو بلند کیا اور ترازو قائم کی",
+        "textEnglish": "And the heaven He raised and imposed the balance"
+      },
+      {
+        "verseNumber": 8,
+        "textArabic": "أَلَّا تَ[q:6515[طْ]غَوْ[s[اْ] فِى [h:13127[ٱ]لْمِيز[p[َا]نِ",
+        "textUrdu": "کہ ترازو (سے تولنے) میں حد سے تجاوز نہ کرو",
+        "textEnglish": "That you not transgress within the balance."
+      },
+      {
+        "verseNumber": 9,
+        "textArabic": "وَأَقِيمُو[s[اْ] [h:13128[ٱ]لْوَزْنَ بِ[h:1800[ٱ]لْقِسْطِ وَلَا تُخْسِرُو[s[اْ] [h:13129[ٱ]لْمِيز[p[َا]نَ",
+        "textUrdu": "اور انصاف کے ساتھ ٹھیک تولو۔ اور تول کم مت کرو",
+        "textEnglish": "And establish weight in justice and do not make deficient the balance."
+      },
+      {
+        "verseNumber": 10,
+        "textArabic": "وَ[h:9999[ٱ]لْأَرْضَ وَضَعَهَا لِلْأَن[p[َا]مِ",
+        "textUrdu": "اور اسی نے خلقت کے لئے زمین بچھائی",
+        "textEnglish": "And the earth He laid [out] for the creatures."
+      },
+      {
+        "verseNumber": 11,
+        "textArabic": "فِيهَا فَ[n[ـٰ]كِهَ[a:13130[ةٌ و]َ[h:13131[ٱ][l[ل][g[نّ]َخْلُ ذَاتُ [h:13132[ٱ]لْأَكْم[p[َا]مِ",
+        "textUrdu": "اس میں میوے اور کھجور کے درخت ہیں جن کے خوشوں پر غلاف ہوتے ہیں",
+        "textEnglish": "Therein is fruit and palm trees having sheaths [of dates]"
+      },
+      {
+        "verseNumber": 12,
+        "textArabic": "وَ[h:9999[ٱ]لْحَبُّ ذُو [h:13133[ٱ]لْعَصْفِ وَ[h:13134[ٱ][l[ل]رَّيْح[p[َا]نُ",
+        "textUrdu": "اور اناج جس کے ساتھ بھس ہوتا ہے اور خوشبودار پھول",
+        "textEnglish": "And grain having husks and scented plants."
+      },
+      {
+        "verseNumber": 13,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو (اے گروہ جن وانس) تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 14,
+        "textArabic": "خَلَقَ [h:7324[ٱ]لْإِ[f:5969[نس]َ[n[ـٰ]نَ مِ[f:7229[ن ص]َلْصَ[n[ـٰ][f:13135[لٍ ك]َ[h:13136[ٱ]لْفَخّ[p[َا]رِ",
+        "textUrdu": "اسی نے انسان کو ٹھیکرے کی طرح کھنکھناتی مٹی سے بنایا",
+        "textEnglish": "He created man from clay like [that of] pottery."
+      },
+      {
+        "verseNumber": 15,
+        "textArabic": "وَخَلَقَ [h:13137[ٱ]لْج[m[َا]ٓ[g[نّ]َ م[a:13138[ِن م]َّارِ[a:13139[جٍ م]ّ[a:4598[ِن ن]ّ[p[َا]رٍ",
+        "textUrdu": "اور جنات کو آگ کے شعلے سے پیدا کیا",
+        "textEnglish": "And He created the jinn from a smokeless flame of fire."
+      },
+      {
+        "verseNumber": 16,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 17,
+        "textArabic": "رَبُّ [h:13140[ٱ]لْمَشْرِقَيْنِ وَرَبُّ [h:13141[ٱ]لْمَغْرِبَ[p[يْ]نِ",
+        "textUrdu": "وہی دونوں مشرقوں اور دونوں مغربوں کا مالک (ہے)",
+        "textEnglish": "[He is] Lord of the two sunrises and Lord of the two sunsets."
+      },
+      {
+        "verseNumber": 18,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 19,
+        "textArabic": "مَرَجَ [h:9669[ٱ]لْبَحْرَيْنِ يَلْتَقِي[p[َا]نِ",
+        "textUrdu": "اسی نے دو دریا رواں کئے جو آپس میں ملتے ہیں",
+        "textEnglish": "He released the two seas, meeting [side by side];"
+      },
+      {
+        "verseNumber": 20,
+        "textArabic": "بَيْنَهُمَا بَرْزَ[u:13142[خٌ ل]َّا يَ[q:13143[بْ]غِي[p[َا]نِ",
+        "textUrdu": "دونوں میں ایک آڑ ہے کہ (اس سے) تجاوز نہیں کرسکتے",
+        "textEnglish": "Between them is a barrier [so] neither of them transgresses."
+      },
+      {
+        "verseNumber": 21,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 22,
+        "textArabic": "يَخْرُجُ مِنْهُمَا [h:13144[ٱ][l[ل]لُّؤْلُؤُ وَ[h:13145[ٱ]لْمَرْج[p[َا]نُ",
+        "textUrdu": "دونوں دریاؤں سے موتی اور مونگے نکلتے ہیں",
+        "textEnglish": "From both of them emerge pearl and coral."
+      },
+      {
+        "verseNumber": 23,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 24,
+        "textArabic": "وَلَهُ [h:13146[ٱ]لْجَوَارِ [h:13147[ٱ]لْمُ[f:13148[نش]َـَٔـاتُ فِى [h:837[ٱ]لْبَحْرِ كَ[h:12143[ٱ]لْأَعْلَ[p[ـٰ]مِ",
+        "textUrdu": "اور جہاز بھی اسی کے ہیں جو دریا میں پہاڑوں کی طرح اونچے کھڑے ہوتے ہیں",
+        "textEnglish": "And to Him belong the ships [with sails] elevated in the sea like mountains."
+      },
+      {
+        "verseNumber": 25,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 26,
+        "textArabic": "كُلُّ مَنْ عَلَيْهَا ف[p[َا]نٍ",
+        "textUrdu": "جو (مخلوق) زمین پر ہے سب کو فنا ہونا ہے",
+        "textEnglish": "Everyone upon the earth will perish,"
+      },
+      {
+        "verseNumber": 27,
+        "textArabic": "وَيَ[q:13149[بْ]قَىٰ وَ[q:603[جْ]هُ رَبِّكَ ذُو [h:13150[ٱ]لْجَلَ[n[ـٰ]لِ وَ[h:13151[ٱ]لْإِكْر[p[َا]مِ",
+        "textUrdu": "اور تمہارے پروردگار ہی کی ذات (بابرکات) جو صاحب جلال وعظمت ہے باقی رہے گی",
+        "textEnglish": "And there will remain the Face of your Lord, Owner of Majesty and Honor."
+      },
+      {
+        "verseNumber": 28,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 29,
+        "textArabic": "يَسْــَٔلُهُ[n[ۥ] مَ[f:2074[ن ف]ِى [h:609[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:177[ٱ]لْأَرْضِ‌ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+        "textUrdu": "آسمان اور زمین میں جتنے لوگ ہیں سب اسی سے مانگتے ہیں۔ وہ ہر روز کام میں مصروف رہتا ہے",
+        "textEnglish": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter."
+      },
+      {
+        "verseNumber": 30,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 31,
+        "textArabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ [h:13152[ٱ][l[ل]ثَّقَل[p[َا]نِ",
+        "textUrdu": "اے دونوں جماعتو! ہم عنقریب تمہاری طرف متوجہ ہوتے ہیں",
+        "textEnglish": "We will attend to you, O prominent beings."
+      },
+      {
+        "verseNumber": 32,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 33,
+        "textArabic": "يَ[n[ـٰ]مَعْشَرَ [h:4407[ٱ]لْجِ[g[نّ]ِ وَ[h:4418[ٱ]لْإِ[f:4418[نس]ِ إِنِ [h:13153[ٱ]سْتَطَعْتُمْ أَ[f:13154[ن ت]َ[f:13155[نف]ُذُو[s[اْ] مِنْ أَ[q:13156[قْ]طَارِ [h:13157[ٱ][l[ل]سَّمَ[n[ـٰ]و[n[َٲ]تِ وَ[h:177[ٱ]لْأَرْضِ فَ[h:13158[ٱ][f:13158[نف]ُذُو[s[اْ‌ۚ] لَا تَ[f:13159[نف]ُذُونَ إِلَّا بِسُلْطَ[p[ـٰ]نٍ",
+        "textUrdu": "اے گروہِ جن وانس اگر تمہیں قدرت ہو کہ آسمان اور زمین کے کناروں سے نکل جاؤ تو نکل جاؤ۔ اور زور کے سوا تم نکل سکنے ہی کے نہیں",
+        "textEnglish": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah]."
+      },
+      {
+        "verseNumber": 34,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 35,
+        "textArabic": "يُرْسَلُ عَلَيْكُمَا شُوَا[a:13160[ظٌ م]ّ[a:4598[ِن ن]َّا[a:13161[رٍ و]َنُحَا[f:13162[سٌ ف]َلَا تَ[f:13163[نت]َصِر[p[َا]نِ",
+        "textUrdu": "تم پر آگ کے شعلے اور دھواں چھوڑ دیا جائے گا تو پھر تم مقابلہ نہ کرسکو گے",
+        "textEnglish": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves."
+      },
+      {
+        "verseNumber": 36,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 37,
+        "textArabic": "فَإِذَا [h:13164[ٱ][f:13165[نش]َقَّتِ [h:13166[ٱ][l[ل]سَّم[o[َا]ٓءُ فَكَانَتْ وَرْدَ[f:13167[ةً ك]َ[h:13168[ٱ][l[ل]دِّه[p[َا]نِ",
+        "textUrdu": "پھر جب آسمان پھٹ کر تیل کی تلچھٹ کی طرح گلابی ہوجائے گا (تو) وہ کیسا ہولناک دن ہوگا",
+        "textEnglish": "And when the heaven is split open and becomes rose-colored like oil -"
+      },
+      {
+        "verseNumber": 38,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 39,
+        "textArabic": "فَيَوْمَئِ[u:10538[ذٍ ل]َّا يُسْــَٔلُ عَ[f:13169[ن ذ]َ[i:13170[نۢب]ِه[o[ِۦٓ] إِن[a:13171[سٌ و]َلَا ج[m[َا]ٓ[g[نّ]ٌ",
+        "textUrdu": "اس روز نہ تو کسی انسان سے اس کے گناہوں کے بارے میں پرسش کی جائے گی اور نہ کسی جن سے",
+        "textEnglish": "Then on that Day none will be asked about his sin among men or jinn."
+      },
+      {
+        "verseNumber": 40,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 41,
+        "textArabic": "يُعْرَفُ [h:13172[ٱ]لْمُ[q:5255[جْ]رِمُونَ بِسِيمَ[n[ـٰ]هُمْ فَيُؤْخَذُ بِ[h:13173[ٱ][l[ل][g[نّ]َو[n[َٲ]صِى وَ[h:13174[ٱ]لْأَ[q:13174[قْ]د[p[َا]مِ",
+        "textUrdu": "گنہگار اپنے چہرے ہی سے پہچان لئے جائیں گے تو پیشانی کے بالوں اور پاؤں سے پکڑ لئے جائیں گے",
+        "textEnglish": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet."
+      },
+      {
+        "verseNumber": 42,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 43,
+        "textArabic": "هَ[n[ـٰ]ذِه[n[ِۦ] جَهَ[g[نّ]َمُ [h:11279[ٱ]لَّتِى يُكَذِّبُ بِهَا [h:13175[ٱ]لْمُ[q:5255[جْ]رِم[p[ُو]نَ",
+        "textUrdu": "یہی وہ جہنم ہے جسے گنہگار لوگ جھٹلاتے تھے",
+        "textEnglish": "This is Hell, which the criminals deny."
+      },
+      {
+        "verseNumber": 44,
+        "textArabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ء[p[َا]نٍ",
+        "textUrdu": "وہ دوزخ اور کھولتے ہوئے گرم پانی کے درمیان گھومتے پھریں گے",
+        "textEnglish": "They will go around between it and scalding water, heated [to the utmost degree]."
+      },
+      {
+        "verseNumber": 45,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 46,
+        "textArabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّه[n[ِۦ] جَ[g[نّ]َت[p[َا]نِ",
+        "textUrdu": "اور جو شخص اپنے پروردگار کے سامنے کھڑے ہونے سے ڈرا اس کے لئے دو باغ ہیں",
+        "textEnglish": "But for he who has feared the position of his Lord are two gardens -"
+      },
+      {
+        "verseNumber": 47,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 48,
+        "textArabic": "ذَوَات[o[َآ] أَفْن[p[َا]نٍ",
+        "textUrdu": "ان دونوں میں بہت سی شاخیں (یعنی قسم قسم کے میووں کے درخت ہیں)",
+        "textEnglish": "Having [spreading] branches."
+      },
+      {
+        "verseNumber": 49,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 50,
+        "textArabic": "فِيهِمَا عَيْنَانِ تَ[q:13176[جْ]رِي[p[َا]نِ",
+        "textUrdu": "ان میں دو چشمے بہہ رہے ہیں",
+        "textEnglish": "In both of them are two springs, flowing."
+      },
+      {
+        "verseNumber": 51,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 52,
+        "textArabic": "فِيهِمَا مِ[f:843[ن ك]ُلِّ فَ[n[ـٰ]كِهَ[f:13177[ةٍ ز]َوْج[p[َا]نِ",
+        "textUrdu": "ان میں سب میوے دو دو قسم کے ہیں",
+        "textEnglish": "In both of them are of every fruit, two kinds."
+      },
+      {
+        "verseNumber": 53,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 54,
+        "textArabic": "مُتَّكِــِٔينَ عَلَىٰ فُرُ[i:13178[شِۭ ب]َط[o[َا]ٓئِنُهَا مِنْ إِسْتَ[q:13179[بْ]رَ[a:13180[قٍ‌ۚ و]َجَنَى [h:13181[ٱ]لْجَ[g[نّ]َتَيْنِ د[p[َا]نٍ",
+        "textUrdu": "(اہل جنت) ایسے بچھونوں پر جن کے استرا طلس کے ہیں تکیہ لگائے ہوئے ہوں گے۔ اور دونوں باغوں کے میوے قریب (جھک رہے) ہیں",
+        "textEnglish": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low."
+      },
+      {
+        "verseNumber": 55,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 56,
+        "textArabic": "فِيهِ[g[نّ]َ قَ[n[ـٰ]صِر[n[َٲ]تُ [h:11365[ٱ][l[ل]طَّرْفِ لَمْ يَ[q:13182[طْ]مِثْهُ[g[نّ]َ إِ[f:13183[نس][f:13184[ٌ ق]َ[q:8394[بْ]لَهُمْ وَلَا ج[m[َا]ٓ[g[نّ]ٌ",
+        "textUrdu": "ان میں نیچی نگاہ والی عورتیں ہیں جن کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے",
+        "textEnglish": "In them are women limiting [their] glances, untouched before them by man or jinni -"
+      },
+      {
+        "verseNumber": 57,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 58,
+        "textArabic": "كَأَ[g[نّ]َهُ[g[نّ]َ [h:13185[ٱ]لْيَاقُوتُ وَ[h:13145[ٱ]لْمَرْج[p[َا]نُ",
+        "textUrdu": "گویا وہ یاقوت اور مرجان ہیں",
+        "textEnglish": "As if they were rubies and coral."
+      },
+      {
+        "verseNumber": 59,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 60,
+        "textArabic": "هَلْ جَز[o[َا]ٓءُ [h:13186[ٱ]لْإِحْسَ[n[ـٰ]نِ إِلَّا [h:13187[ٱ]لْإِحْسَ[p[ـٰ]نُ",
+        "textUrdu": "نیکی کا بدلہ نیکی کے سوا کچھ نہیں ہے",
+        "textEnglish": "Is the reward for good [anything] but good?"
+      },
+      {
+        "verseNumber": 61,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 62,
+        "textArabic": "وَمِ[f:13188[ن د]ُونِهِمَا جَ[g[نّ]َت[p[َا]نِ",
+        "textUrdu": "اور ان باغوں کے علاوہ دو باغ اور ہیں",
+        "textEnglish": "And below them both [in excellence] are two [other] gardens -"
+      },
+      {
+        "verseNumber": 63,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 64,
+        "textArabic": "مُ[q:13189[دْ]ه[m[َا]ٓ[g[مّ]َت[p[َا]نِ",
+        "textUrdu": "دونوں خوب گہرے سبز",
+        "textEnglish": "Dark green [in color]."
+      },
+      {
+        "verseNumber": 65,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 66,
+        "textArabic": "فِيهِمَا عَيْنَانِ نَضَّاخَت[p[َا]نِ",
+        "textUrdu": "ان میں دو چشمے ابل رہے ہیں",
+        "textEnglish": "In both of them are two springs, spouting."
+      },
+      {
+        "verseNumber": 67,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 68,
+        "textArabic": "فِيهِمَا فَ[n[ـٰ]كِهَ[a:13190[ةٌ و]َنَخْ[a:13191[لٌ و]َرُ[g[مّ][p[َا]نٌ",
+        "textUrdu": "ان میں میوے اور کھجوریں اور انار ہیں",
+        "textEnglish": "In both of them are fruit and palm trees and pomegranates."
+      },
+      {
+        "verseNumber": 69,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 70,
+        "textArabic": "فِيهِ[g[نّ]َ خَيْر[n[َٲ]تٌ حِس[p[َا]نٌ",
+        "textUrdu": "ان میں نیک سیرت (اور) خوبصورت عورتیں ہیں",
+        "textEnglish": "In them are good and beautiful women -"
+      },
+      {
+        "verseNumber": 71,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 72,
+        "textArabic": "حُو[a:13192[رٌ م]َّ[q:13193[قْ]صُور[n[َٲ][f:13194[تٌ ف]ِى [h:13195[ٱ]لْخِي[p[َا]مِ",
+        "textUrdu": "(وہ) حوریں (ہیں جو) خیموں میں مستور (ہیں)",
+        "textEnglish": "Fair ones reserved in pavilions -"
+      },
+      {
+        "verseNumber": 73,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 74,
+        "textArabic": "لَمْ يَ[q:13182[طْ]مِثْهُ[g[نّ]َ إِ[f:13183[نس][f:13184[ٌ ق]َ[q:8394[بْ]لَهُمْ وَلَا ج[m[َا]ٓ[g[نّ]ٌ",
+        "textUrdu": "ان کو اہل جنت سے پہلے نہ کسی انسان نے ہاتھ لگایا اور نہ کسی جن نے",
+        "textEnglish": "Untouched before them by man or jinni -"
+      },
+      {
+        "verseNumber": 75,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny? -"
+      },
+      {
+        "verseNumber": 76,
+        "textArabic": "مُتَّكِــِٔينَ عَلَىٰ رَفْرَفٍ خُضْ[a:13196[رٍ و]َعَ[q:13197[بْ]قَرِىٍّ حِس[p[َا]نٍ",
+        "textUrdu": "سبز قالینوں اور نفیس مسندوں پر تکیہ لگائے بیٹھے ہوں گے",
+        "textEnglish": "Reclining on green cushions and beautiful fine carpets."
+      },
+      {
+        "verseNumber": 77,
+        "textArabic": "فَبِأَىِّ ءَال[o[َا]ٓءِ رَبِّكُمَا تُكَذِّب[p[َا]نِ",
+        "textUrdu": "تو تم اپنے پروردگار کی کون کون سی نعمت کو جھٹلاؤ گے؟",
+        "textEnglish": "So which of the favors of your Lord would you deny?"
+      },
+      {
+        "verseNumber": 78,
+        "textArabic": "تَبَ[n[ـٰ]رَكَ [h:13198[ٱ]سْمُ رَبِّكَ ذِى [h:13199[ٱ]لْجَلَ[n[ـٰ]لِ وَ[h:13151[ٱ]لْإِكْر[p[َا]مِ",
+        "textUrdu": "(اے محمدﷺ) تمہارا پروردگار جو صاحب جلال وعظمت ہے اس کا نام بڑا بابرکت ہے",
+        "textEnglish": "Blessed is the name of your Lord, Owner of Majesty and Honor."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "number": 56,
+    "nameArabic": "سُورَةُ الوَاقِعَةِ",
+    "nameEnglish": "Al-Waaqia",
+    "nameUrdu": "سورۃ الواقعہ",
+    "meaning": "The Inevitable (برکت و فراخی)",
+    "versesCount": 96,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "رسول اللہ ﷺ نے فرمایا: جو شخص ہر رات سورۃ الواقعہ پڑھے اسے کبھی فاقہ نہیں پہنچے گا۔ رزق میں برکت کے لیے اکسیر۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/056.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "إِذَا وَقَعَتِ [h:13200[ٱ]لْوَاقِعَةُ",
+        "textUrdu": "جب واقع ہونے والی واقع ہوجائے",
+        "textEnglish": "When the Occurrence occurs,"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "لَيْسَ لِوَ[q:13201[قْ]عَتِهَا كَاذِبَةٌ",
+        "textUrdu": "اس کے واقع ہونے میں کچھ جھوٹ نہیں",
+        "textEnglish": "There is, at its occurrence, no denial."
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "خَافِضَ[u:13202[ةٌ ر]َّافِعَةٌ",
+        "textUrdu": "کسی کو پست کرے کسی کو بلند",
+        "textEnglish": "It will bring down [some] and raise up [others]."
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "إِذَا رُجَّتِ [h:13203[ٱ]لْأَرْضُ رَجًّا",
+        "textUrdu": "جب زمین بھونچال سے لرزنے لگے",
+        "textEnglish": "When the earth is shaken with convulsion"
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "وَبُسَّتِ [h:13204[ٱ]لْجِبَالُ بَسًّا",
+        "textUrdu": "اور پہاڑ ٹوٹ کر ریزہ ریزہ ہوجائیں",
+        "textEnglish": "And the mountains are broken down, crumbling"
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "فَكَانَتْ هَب[o[َا]ٓ[a:13205[ءً م]ُّ[i:13206[نۢب]َثًّا",
+        "textUrdu": "پھر غبار ہو کر اُڑنے لگیں",
+        "textEnglish": "And become dust dispersing."
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "وَكُ[f:151[نت]ُمْ أَزْو[n[َٲ][f:13207[جًا ث]َلَ[n[ـٰ]ثَةً",
+        "textUrdu": "اور تم لوگ تین قسم ہوجاؤ",
+        "textEnglish": "And you become [of] three kinds:"
+      },
+      {
+        "verseNumber": 8,
+        "textArabic": "فَأَصْحَ[n[ـٰ]بُ [h:13208[ٱ]لْمَيْمَنَةِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13209[ٱ]لْمَيْمَنَةِ",
+        "textUrdu": "تو داہنے ہاتھ والے (سبحان الله) داہنے ہاتھ والے کیا (ہی چین میں) ہیں",
+        "textEnglish": "Then the companions of the right - what are the companions of the right?"
+      },
+      {
+        "verseNumber": 9,
+        "textArabic": "وَأَصْحَ[n[ـٰ]بُ [h:13210[ٱ]لْمَشْــَٔمَةِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13211[ٱ]لْمَشْــَٔمَةِ",
+        "textUrdu": "اور بائیں ہاتھ والے (افسوس) بائیں ہاتھ والے کیا (گرفتار عذاب) ہیں",
+        "textEnglish": "And the companions of the left - what are the companions of the left?"
+      },
+      {
+        "verseNumber": 10,
+        "textArabic": "وَ[h:9999[ٱ][l[ل]سَّ[n[ـٰ]بِقُونَ [h:13212[ٱ][l[ل]سَّ[n[ـٰ]بِق[p[ُو]نَ",
+        "textUrdu": "اور جو آگے بڑھنے والے ہیں (ان کا کیا کہنا) وہ آگے ہی بڑھنے والے ہیں",
+        "textEnglish": "And the forerunners, the forerunners -"
+      },
+      {
+        "verseNumber": 11,
+        "textArabic": "أُ[s[وْ]لَ[o[ـٰٓ]ئِكَ [h:13213[ٱ]لْمُقَرَّب[p[ُو]نَ",
+        "textUrdu": "وہی (خدا کے) مقرب ہیں",
+        "textEnglish": "Those are the ones brought near [to Allah]"
+      },
+      {
+        "verseNumber": 12,
+        "textArabic": "فِى جَ[g[نّ]َ[n[ـٰ]تِ [h:3680[ٱ][l[ل][g[نّ]َع[p[ِي]مِ",
+        "textUrdu": "نعمت کے بہشتوں میں",
+        "textEnglish": "In the Gardens of Pleasure,"
+      },
+      {
+        "verseNumber": 13,
+        "textArabic": "ثُلَّ[a:13214[ةٌ م]ِّنَ [h:11455[ٱ]لْأَوَّل[p[ِي]نَ",
+        "textUrdu": "وہ بہت سے تو اگلے لوگوں میں سے ہوں گے",
+        "textEnglish": "A [large] company of the former peoples"
+      },
+      {
+        "verseNumber": 14,
+        "textArabic": "وَقَلِي[a:13215[لٌ م]ِّنَ [h:13216[ٱ]لْأَخِر[p[ِي]نَ",
+        "textUrdu": "اور تھوڑے سے پچھلوں میں سے",
+        "textEnglish": "And a few of the later peoples,"
+      },
+      {
+        "verseNumber": 15,
+        "textArabic": "عَلَىٰ سُرُ[a:13217[رٍ م]َّوْضُونَةٍ",
+        "textUrdu": "(لعل و یاقوت وغیرہ سے) جڑے ہوئے تختوں پر",
+        "textEnglish": "On thrones woven [with ornament],"
+      },
+      {
+        "verseNumber": 16,
+        "textArabic": "مُّتَّكِــِٔينَ عَلَيْهَا مُتَقَ[n[ـٰ]بِل[p[ِي]نَ",
+        "textUrdu": "آمنے سامنے تکیہ لگائے ہوئے",
+        "textEnglish": "Reclining on them, facing each other."
+      },
+      {
+        "verseNumber": 17,
+        "textArabic": "يَطُوفُ عَلَيْهِمْ وِلْد[n[َٲ][a:13218[نٌ م]ُّخَلَّد[p[ُو]نَ",
+        "textUrdu": "نوجوان خدمت گزار جو ہمیشہ (ایک ہی حالت میں) رہیں گے ان کے آس پاس پھریں گے",
+        "textEnglish": "There will circulate among them young boys made eternal"
+      },
+      {
+        "verseNumber": 18,
+        "textArabic": "بِأَكْوَا[a:13219[بٍ و]َأَبَارِيقَ وَكَأْ[a:13220[سٍ م]ّ[a:11360[ِن م]َّع[p[ِي]نٍ",
+        "textUrdu": "یعنی آبخورے اور آفتابے اور صاف شراب کے گلاس لے لے کر",
+        "textEnglish": "With vessels, pitchers and a cup [of wine] from a flowing spring -"
+      },
+      {
+        "verseNumber": 19,
+        "textArabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُ[f:13221[نز]ِف[p[ُو]نَ",
+        "textUrdu": "اس سے نہ تو سر میں درد ہوگا اور نہ ان کی عقلیں زائل ہوں گی",
+        "textEnglish": "No headache will they have therefrom, nor will they be intoxicated -"
+      },
+      {
+        "verseNumber": 20,
+        "textArabic": "وَفَ[n[ـٰ]كِهَ[a:13222[ةٍ م]ِّ[g[مّ]َا يَتَخَيَّر[p[ُو]نَ",
+        "textUrdu": "اور میوے جس طرح کے ان کو پسند ہوں",
+        "textEnglish": "And fruit of what they select"
+      },
+      {
+        "verseNumber": 21,
+        "textArabic": "وَلَحْمِ طَيْ[a:13223[رٍ م]ِّ[g[مّ]َا يَشْتَه[p[ُو]نَ",
+        "textUrdu": "اور پرندوں کا گوشت جس قسم کا ان کا جی چاہے",
+        "textEnglish": "And the meat of fowl, from whatever they desire."
+      },
+      {
+        "verseNumber": 22,
+        "textArabic": "وَحُورٌ ع[p[ِي]نٌ",
+        "textUrdu": "اور بڑی بڑی آنکھوں والی حوریں",
+        "textEnglish": "And [for them are] fair women with large, [beautiful] eyes,"
+      },
+      {
+        "verseNumber": 23,
+        "textArabic": "كَأَمْثَ[n[ـٰ]لِ [h:13224[ٱ][l[ل]لُّؤْلُوِٕ [h:13225[ٱ]لْمَكْن[p[ُو]نِ",
+        "textUrdu": "جیسے (حفاظت سے) تہہ کئے ہوئے (آب دار) موتی",
+        "textEnglish": "The likenesses of pearls well-protected,"
+      },
+      {
+        "verseNumber": 24,
+        "textArabic": "جَز[o[َا]ٓ[i:3537[ءَۢ ب]ِمَا كَانُو[s[اْ] يَعْمَل[p[ُو]نَ",
+        "textUrdu": "یہ ان اعمال کا بدلہ ہے جو وہ کرتے تھے",
+        "textEnglish": "As reward for what they used to do."
+      },
+      {
+        "verseNumber": 25,
+        "textArabic": "لَا يَسْمَعُونَ فِيهَا لَغْ[a:13226[وًا و]َلَا تَأْثِيمًا",
+        "textUrdu": "وہاں نہ بیہودہ بات سنیں گے اور نہ گالی گلوچ",
+        "textEnglish": "They will not hear therein ill speech or commission of sin -"
+      },
+      {
+        "verseNumber": 26,
+        "textArabic": "إِلَّا قِيل[f:13227[اً س]َلَ[n[ـٰ][f:13228[مًا س]َلَ[n[ـٰ]مًا",
+        "textUrdu": "ہاں ان کا کلام سلام سلام (ہوگا)",
+        "textEnglish": "Only a saying: \"Peace, peace.\""
+      },
+      {
+        "verseNumber": 27,
+        "textArabic": "وَأَصْحَ[n[ـٰ]بُ [h:13229[ٱ]لْيَمِينِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13230[ٱ]لْيَم[p[ِي]نِ",
+        "textUrdu": "اور داہنے ہاتھ والے (سبحان الله) داہنے ہاتھ والے کیا (ہی عیش میں) ہیں",
+        "textEnglish": "The companions of the right - what are the companions of the right?"
+      },
+      {
+        "verseNumber": 28,
+        "textArabic": "فِى سِ[q:10979[دْ][a:13231[رٍ م]َّخْض[p[ُو][q[د]ٍ",
+        "textUrdu": "(یعنی) بےخار کی بیریوں",
+        "textEnglish": "[They will be] among lote trees with thorns removed"
+      },
+      {
+        "verseNumber": 29,
+        "textArabic": "وَطَلْ[a:13232[حٍ م]َّ[f:6447[نض][p[ُو][q[د]ٍ",
+        "textUrdu": "اور تہہ بہ تہہ کیلوں",
+        "textEnglish": "And [banana] trees layered [with fruit]"
+      },
+      {
+        "verseNumber": 30,
+        "textArabic": "وَظِ[a:13233[لٍّ م]َّمْد[p[ُو][q[د]ٍ",
+        "textUrdu": "اور لمبے لمبے سایوں",
+        "textEnglish": "And shade extended"
+      },
+      {
+        "verseNumber": 31,
+        "textArabic": "وَم[o[َا]ٓ[a:13234[ءٍ م]َّسْك[p[ُو][q[ب]ٍ",
+        "textUrdu": "اور پانی کے جھرنوں",
+        "textEnglish": "And water poured out"
+      },
+      {
+        "verseNumber": 32,
+        "textArabic": "وَفَ[n[ـٰ]كِهَ[f:13235[ةٍ ك]َثِيرَةٍ",
+        "textUrdu": "اور میوہ ہائے کثیرہ (کے باغوں) میں",
+        "textEnglish": "And fruit, abundant [and varied],"
+      },
+      {
+        "verseNumber": 33,
+        "textArabic": "لَّا مَ[q:13236[قْ]طُوعَ[a:13237[ةٍ و]َلَا مَمْنُوعَةٍ",
+        "textUrdu": "جو نہ کبھی ختم ہوں اور نہ ان سے کوئی روکے",
+        "textEnglish": "Neither limited [to season] nor forbidden,"
+      },
+      {
+        "verseNumber": 34,
+        "textArabic": "وَفُرُ[a:13238[شٍ م]َّرْفُوعَةٍ",
+        "textUrdu": "اور اونچے اونچے فرشوں میں",
+        "textEnglish": "And [upon] beds raised high."
+      },
+      {
+        "verseNumber": 35,
+        "textArabic": "إِ[g[نّ][o[َآ] أَ[f:13239[نش]َأْنَ[n[ـٰ]هُ[g[نّ]َ إِ[f:13240[نش][o[َا]ٓءً",
+        "textUrdu": "ہم نے ان (حوروں) کو پیدا کیا",
+        "textEnglish": "Indeed, We have produced the women of Paradise in a [new] creation"
+      },
+      {
+        "verseNumber": 36,
+        "textArabic": "فَجَعَلْنَ[n[ـٰ]هُ[g[نّ]َ أَ[q:13241[بْ]كَارًا",
+        "textUrdu": "تو ان کو کنواریاں بنایا",
+        "textEnglish": "And made them virgins,"
+      },
+      {
+        "verseNumber": 37,
+        "textArabic": "عُرُبًا أَتْرَابًا",
+        "textUrdu": "(اور شوہروں کی) پیاریاں اور ہم عمر",
+        "textEnglish": "Devoted [to their husbands] and of equal age,"
+      },
+      {
+        "verseNumber": 38,
+        "textArabic": "لِّأَصْحَ[n[ـٰ]بِ [h:13242[ٱ]لْيَم[p[ِي]نِ",
+        "textUrdu": "یعنی داہنے ہاتھ والوں کے لئے",
+        "textEnglish": "For the companions of the right [who are]"
+      },
+      {
+        "verseNumber": 39,
+        "textArabic": "ثُلَّ[a:13214[ةٌ م]ِّنَ [h:11455[ٱ]لْأَوَّل[p[ِي]نَ",
+        "textUrdu": "(یہ) بہت سے اگلے لوگوں میں سے ہیں",
+        "textEnglish": "A company of the former peoples"
+      },
+      {
+        "verseNumber": 40,
+        "textArabic": "وَثُلَّ[a:13243[ةٌ م]ِّنَ [h:13216[ٱ]لْأَخِر[p[ِي]نَ",
+        "textUrdu": "اور بہت سے پچھلوں میں سے",
+        "textEnglish": "And a company of the later peoples."
+      },
+      {
+        "verseNumber": 41,
+        "textArabic": "وَأَصْحَ[n[ـٰ]بُ [h:13244[ٱ][l[ل]شِّمَالِ م[o[َآ] أَصْحَ[n[ـٰ]بُ [h:13245[ٱ][l[ل]شِّم[p[َا]لِ",
+        "textUrdu": "اور بائیں ہاتھ والے (افسوس) بائیں ہاتھ والے کیا (ہی عذاب میں) ہیں",
+        "textEnglish": "And the companions of the left - what are the companions of the left?"
+      },
+      {
+        "verseNumber": 42,
+        "textArabic": "فِى سَمُو[a:13246[مٍ و]َحَم[p[ِي]مٍ",
+        "textUrdu": "(یعنی دوزخ کی) لپٹ اور کھولتے ہوئے پانی میں",
+        "textEnglish": "[They will be] in scorching fire and scalding water"
+      },
+      {
+        "verseNumber": 43,
+        "textArabic": "وَظِ[a:13247[لٍّ م]ّ[a:13248[ِن ي]َحْم[p[ُو]مٍ",
+        "textUrdu": "اور سیاہ دھوئیں کے سائے میں",
+        "textEnglish": "And a shade of black smoke,"
+      },
+      {
+        "verseNumber": 44,
+        "textArabic": "لَّا بَارِ[a:13249[دٍ و]َلَا كَر[p[ِي]مٍ",
+        "textUrdu": "(جو) نہ ٹھنڈا (ہے) نہ خوشنما",
+        "textEnglish": "Neither cool nor beneficial."
+      },
+      {
+        "verseNumber": 45,
+        "textArabic": "إِ[g[نّ]َهُمْ كَانُو[s[اْ] قَ[q:3282[بْ]لَ ذ[n[َٲ]لِكَ مُتْرَف[p[ِي]نَ",
+        "textUrdu": "یہ لوگ اس سے پہلے عیشِ نعیم میں پڑے ہوئے تھے",
+        "textEnglish": "Indeed they were, before that, indulging in affluence,"
+      },
+      {
+        "verseNumber": 46,
+        "textArabic": "وَكَانُو[s[اْ] يُصِرُّونَ عَلَى [h:13250[ٱ]لْحِ[f:13251[نث]ِ [h:13252[ٱ]لْعَظ[p[ِي]مِ",
+        "textUrdu": "اور گناہ عظیم پر اڑے ہوئے تھے",
+        "textEnglish": "And they used to persist in the great violation,"
+      },
+      {
+        "verseNumber": 47,
+        "textArabic": "وَكَانُو[s[اْ] يَقُولُونَ أَئِذَا مِتْنَا وَكُ[g[نّ]َا تُرَا[a:9207[بًا و]َعِظَ[n[ـٰ]مًا أَءِ[g[نّ]َا لَمَ[q:7784[بْ]عُوث[p[ُو]نَ",
+        "textUrdu": "اور کہا کرتے تھے کہ بھلا جب ہم مرگئے اور مٹی ہوگئے اور ہڈیاں (ہی ہڈیاں رہ گئے) تو کیا ہمیں پھر اُٹھنا ہوگا؟",
+        "textEnglish": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected?"
+      },
+      {
+        "verseNumber": 48,
+        "textArabic": "أَوَءَاب[o[َا]ٓؤُنَا [h:11331[ٱ]لْأَوَّل[p[ُو]نَ",
+        "textUrdu": "اور کیا ہمارے باپ دادا کو بھی؟",
+        "textEnglish": "And our forefathers [as well]?\""
+      },
+      {
+        "verseNumber": 49,
+        "textArabic": "قُلْ إِ[g[نّ]َ [h:13253[ٱ]لْأَوَّلِينَ وَ[h:13254[ٱ]لْأَخِر[p[ِي]نَ",
+        "textUrdu": "کہہ دو کہ بےشک پہلے اور پچھلے",
+        "textEnglish": "Say, [O Muhammad], \"Indeed, the former and the later peoples"
+      },
+      {
+        "verseNumber": 50,
+        "textArabic": "لَمَ[q:13255[جْ]مُوعُونَ إِلَىٰ مِيقَ[n[ـٰ]تِ يَوْ[a:9746[مٍ م]َّعْل[p[ُو]مٍ",
+        "textUrdu": "(سب) ایک روز مقرر کے وقت پر جمع کئے جائیں گے",
+        "textEnglish": "Are to be gathered together for the appointment of a known Day.\""
+      },
+      {
+        "verseNumber": 51,
+        "textArabic": "ثُ[g[مّ]َ إِ[g[نّ]َكُمْ أَيُّهَا [h:13256[ٱ][l[ل]ضّ[m[َا]ٓلُّونَ [h:13257[ٱ]لْمُكَذِّب[p[ُو]نَ",
+        "textUrdu": "پھر تم اے جھٹلانے والے گمرا ہو!",
+        "textEnglish": "Then indeed you, O those astray [who are] deniers,"
+      },
+      {
+        "verseNumber": 52,
+        "textArabic": "لَأَكِلُونَ مِ[f:13258[ن ش]َجَ[a:13259[رٍ م]ِّ[f:13260[ن ز]َقّ[p[ُو]مٍ",
+        "textUrdu": "تھوہر کے درخت کھاؤ گے",
+        "textEnglish": "Will be eating from trees of zaqqum"
+      },
+      {
+        "verseNumber": 53,
+        "textArabic": "فَمَالِــُٔونَ مِنْهَا [h:11382[ٱ]لْبُط[p[ُو]نَ",
+        "textUrdu": "اور اسی سے پیٹ بھرو گے",
+        "textEnglish": "And filling with it your bellies"
+      },
+      {
+        "verseNumber": 54,
+        "textArabic": "فَشَ[n[ـٰ]رِبُونَ عَلَيْهِ مِنَ [h:13261[ٱ]لْحَم[p[ِي]مِ",
+        "textUrdu": "اور اس پر کھولتا ہوا پانی پیو گے",
+        "textEnglish": "And drinking on top of it from scalding water"
+      },
+      {
+        "verseNumber": 55,
+        "textArabic": "فَشَ[n[ـٰ]رِبُونَ شُرْبَ [h:13262[ٱ]لْه[p[ِي]مِ",
+        "textUrdu": "اور پیو گے بھی تو اس طرح جیسے پیاسے اونٹ پیتے ہیں",
+        "textEnglish": "And will drink as the drinking of thirsty camels."
+      },
+      {
+        "verseNumber": 56,
+        "textArabic": "هَ[n[ـٰ]ذَا نُزُلُهُمْ يَوْمَ [h:9781[ٱ][l[ل]دّ[p[ِي]نِ",
+        "textUrdu": "جزا کے دن یہ ان کی ضیافت ہوگی",
+        "textEnglish": "That is their accommodation on the Day of Recompense."
+      },
+      {
+        "verseNumber": 57,
+        "textArabic": "نَحْنُ خَلَ[q:4250[قْ]نَ[n[ـٰ]كُمْ فَلَوْلَا تُصَدِّق[p[ُو]نَ",
+        "textUrdu": "ہم نے تم کو (پہلی بار بھی تو) پیدا کیا ہے تو تم (دوبارہ اُٹھنے کو) کیوں سچ نہیں سمجھتے؟",
+        "textEnglish": "We have created you, so why do you not believe?"
+      },
+      {
+        "verseNumber": 58,
+        "textArabic": "أَفَرَءَيْت[w:9776[ُم م]َّا تُمْن[p[ُو]نَ",
+        "textUrdu": "دیکھو تو کہ جس (نطفے) کو تم (عورتوں کے رحم میں) ڈالتے ہو",
+        "textEnglish": "Have you seen that which you emit?"
+      },
+      {
+        "verseNumber": 59,
+        "textArabic": "ءَأَ[f:716[نت]ُمْ تَخْلُقُونَهُ[o[ۥٓ] أَمْ نَحْنُ [h:13263[ٱ]لْخَ[n[ـٰ]لِق[p[ُو]نَ",
+        "textUrdu": "کیا تم اس (سے انسان) کو بناتے ہو یا ہم بناتے ہیں؟",
+        "textEnglish": "Is it you who creates it, or are We the Creator?"
+      },
+      {
+        "verseNumber": 60,
+        "textArabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ [h:13264[ٱ]لْمَوْتَ وَمَا نَحْنُ بِمَسْبُوق[p[ِي]نَ",
+        "textUrdu": "ہم نے تم میں مرنا ٹھہرا دیا ہے اور ہم اس (بات) سے عاجز نہیں",
+        "textEnglish": "We have decreed death among you, and We are not to be outdone"
+      },
+      {
+        "verseNumber": 61,
+        "textArabic": "عَلَ[o[ىٰٓ] أ[a:13265[َن ن]ُّبَدِّلَ أَمْثَ[n[ـٰ]لَكُمْ وَنُ[f:13266[نش]ِئَكُمْ فِى مَا لَا تَعْلَم[p[ُو]نَ",
+        "textUrdu": "کہ تمہاری طرح کے اور لوگ تمہاری جگہ لے آئیں اور تم کو ایسے جہان میں جس کو تم نہیں جانتے پیدا کر دیں",
+        "textEnglish": "In that We will change your likenesses and produce you in that [form] which you do not know."
+      },
+      {
+        "verseNumber": 62,
+        "textArabic": "وَلَقَ[q:341[دْ] عَلِمْتُمُ [h:13267[ٱ][l[ل][g[نّ]َشْأَةَ [h:13268[ٱ]لْأُولَىٰ فَلَوْلَا تَذَكَّر[p[ُو]نَ",
+        "textUrdu": "اور تم نے پہلی پیدائش تو جان ہی لی ہے۔ پھر تم سوچتے کیوں نہیں؟",
+        "textEnglish": "And you have already known the first creation, so will you not remember?"
+      },
+      {
+        "verseNumber": 63,
+        "textArabic": "أَفَرَءَيْت[w:9776[ُم م]َّا تَحْرُث[p[ُو]نَ",
+        "textUrdu": "بھلا دیکھو تو کہ جو کچھ تم بوتے ہو",
+        "textEnglish": "And have you seen that [seed] which you sow?"
+      },
+      {
+        "verseNumber": 64,
+        "textArabic": "ءَأَ[f:716[نت]ُمْ تَزْرَعُونَهُ[o[ۥٓ] أَمْ نَحْنُ [h:13269[ٱ][l[ل]زّ[n[َٲ]رِع[p[ُو]نَ",
+        "textUrdu": "تو کیا تم اسے اُگاتے ہو یا ہم اُگاتے ہیں؟",
+        "textEnglish": "Is it you who makes it grow, or are We the grower?"
+      },
+      {
+        "verseNumber": 65,
+        "textArabic": "لَوْ نَش[o[َا]ٓءُ لَجَعَلْنَ[n[ـٰ]هُ حُطَ[n[ـٰ][f:13270[مًا ف]َظَلْتُمْ تَفَكَّه[p[ُو]نَ",
+        "textUrdu": "اگر ہم چاہیں تو اسے چورا چورا کردیں اور تم باتیں بناتے رہ جاؤ",
+        "textEnglish": "If We willed, We could make it [dry] debris, and you would remain in wonder,"
+      },
+      {
+        "verseNumber": 66,
+        "textArabic": "إِ[g[نّ]َا لَمُغْرَم[p[ُو]نَ",
+        "textUrdu": "(کہ ہائے) ہم تو مفت تاوان میں پھنس گئے",
+        "textEnglish": "[Saying], \"Indeed, we are [now] in debt;"
+      },
+      {
+        "verseNumber": 67,
+        "textArabic": "بَلْ نَحْنُ مَحْرُوم[p[ُو]نَ",
+        "textUrdu": "بلکہ ہم ہیں ہی بےنصیب",
+        "textEnglish": "Rather, we have been deprived.\""
+      },
+      {
+        "verseNumber": 68,
+        "textArabic": "أَفَرَءَيْتُمُ [h:13271[ٱ]لْم[o[َا]ٓءَ [h:13272[ٱ]لَّذِى تَشْرَب[p[ُو]نَ",
+        "textUrdu": "بھلا دیکھو تو کہ جو پانی تم پیتے ہو",
+        "textEnglish": "And have you seen the water that you drink?"
+      },
+      {
+        "verseNumber": 69,
+        "textArabic": "ءَأَ[f:716[نت]ُمْ أَ[f:13273[نز]َلْتُمُوهُ مِنَ [h:13274[ٱ]لْمُزْنِ أَمْ نَحْنُ [h:13275[ٱ]لْمُ[f:13276[نز]ِل[p[ُو]نَ",
+        "textUrdu": "کیا تم نے اس کو بادل سے نازل کیا ہے یا ہم نازل کرتے ہیں؟",
+        "textEnglish": "Is it you who brought it down from the clouds, or is it We who bring it down?"
+      },
+      {
+        "verseNumber": 70,
+        "textArabic": "لَوْ نَش[o[َا]ٓءُ جَعَلْنَ[n[ـٰ]هُ أُجَا[f:13277[جًا ف]َلَوْلَا تَشْكُر[p[ُو]نَ",
+        "textUrdu": "اگر ہم چاہیں تو ہم اسے کھاری کردیں پھر تم شکر کیوں نہیں کرتے؟",
+        "textEnglish": "If We willed, We could make it bitter, so why are you not grateful?"
+      },
+      {
+        "verseNumber": 71,
+        "textArabic": "أَفَرَءَيْتُمُ [h:13278[ٱ][l[ل][g[نّ]َارَ [h:114[ٱ]لَّتِى تُور[p[ُو]نَ",
+        "textUrdu": "بھلا دیکھو تو جو آگ تم درخت سے نکالتے ہو",
+        "textEnglish": "And have you seen the fire that you ignite?"
+      },
+      {
+        "verseNumber": 72,
+        "textArabic": "ءَأَ[f:716[نت]ُمْ أَ[f:13279[نش]َأْتُمْ شَجَرَتَه[o[َآ] أَمْ نَحْنُ [h:13280[ٱ]لْمُ[f:13281[نش]ِــٔ[p[ُو]نَ",
+        "textUrdu": "کیا تم نے اس کے درخت کو پیدا کیا ہے یا ہم پیدا کرتے ہیں؟",
+        "textEnglish": "Is it you who produced its tree, or are We the producer?"
+      },
+      {
+        "verseNumber": 73,
+        "textArabic": "نَحْنُ جَعَلْنَ[n[ـٰ]هَا تَذْكِرَ[a:13282[ةً و]َمَتَ[n[ـٰ][u:13283[عًا ل]ِّلْمُ[q:13284[قْ]و[p[ِي]نَ",
+        "textUrdu": "ہم نے اسے یاد دلانے اور مسافروں کے برتنے کو بنایا ہے",
+        "textEnglish": "We have made it a reminder and provision for the travelers,"
+      },
+      {
+        "verseNumber": 74,
+        "textArabic": "فَسَبِّحْ بِ[h:13285[ٱ]سْمِ رَبِّكَ [h:13286[ٱ]لْعَظ[p[ِي]مِ",
+        "textUrdu": "تو تم اپنے پروردگار بزرگ کے نام کی تسبیح کرو",
+        "textEnglish": "So exalt the name of your Lord, the Most Great."
+      },
+      {
+        "verseNumber": 75,
+        "textArabic": "۞ فَل[o[َآ] أُ[q:13287[قْ]سِمُ بِمَو[n[َٲ]قِعِ [h:13288[ٱ][l[ل][g[نّ]ُج[p[ُو]مِ",
+        "textUrdu": "ہمیں تاروں کی منزلوں کی قسم",
+        "textEnglish": "Then I swear by the setting of the stars,"
+      },
+      {
+        "verseNumber": 76,
+        "textArabic": "وَإِ[g[نّ]َهُ[n[ۥ] لَقَسَ[u:13289[مٌ ل]َّوْ تَعْلَمُونَ عَظ[p[ِي]مٌ",
+        "textUrdu": "اور اگر تم سمجھو تو یہ بڑی قسم ہے",
+        "textEnglish": "And indeed, it is an oath - if you could know - [most] great."
+      },
+      {
+        "verseNumber": 77,
+        "textArabic": "إِ[g[نّ]َهُ[n[ۥ] لَقُرْءَا[f:13290[نٌ ك]َر[p[ِي]مٌ",
+        "textUrdu": "کہ یہ بڑے رتبے کا قرآن ہے",
+        "textEnglish": "Indeed, it is a noble Qur'an"
+      },
+      {
+        "verseNumber": 78,
+        "textArabic": "فِى كِتَ[n[ـٰ][a:13291[بٍ م]َّكْن[p[ُو]نٍ",
+        "textUrdu": "(جو) کتاب محفوظ میں (لکھا ہوا ہے)",
+        "textEnglish": "In a Register well-protected;"
+      },
+      {
+        "verseNumber": 79,
+        "textArabic": "لَّا يَمَسُّهُ[o[ۥٓ] إِلَّا [h:13292[ٱ]لْمُطَهَّر[p[ُو]نَ",
+        "textUrdu": "اس کو وہی ہاتھ لگاتے ہیں جو پاک ہیں",
+        "textEnglish": "None touch it except the purified."
+      },
+      {
+        "verseNumber": 80,
+        "textArabic": "تَ[f:11949[نز]ِي[a:12045[لٌ م]ّ[u:4772[ِن ر]َّبِّ [h:4[ٱ]لْعَ[n[ـٰ]لَم[p[ِي]نَ",
+        "textUrdu": "پروردگار عالم کی طرف سے اُتارا گیا ہے",
+        "textEnglish": "[It is] a revelation from the Lord of the worlds."
+      },
+      {
+        "verseNumber": 81,
+        "textArabic": "أَفَبِهَ[n[ـٰ]ذَا [h:13293[ٱ]لْحَدِيثِ أَ[f:428[نت][w:13294[ُم م]ُّ[q:13295[دْ]هِن[p[ُو]نَ",
+        "textUrdu": "کیا تم اس کلام سے انکار کرتے ہو؟",
+        "textEnglish": "Then is it to this statement that you are indifferent"
+      },
+      {
+        "verseNumber": 82,
+        "textArabic": "وَتَ[q:11964[جْ]عَلُونَ رِزْقَكُمْ أَ[g[نّ]َكُمْ تُكَذِّب[p[ُو]نَ",
+        "textUrdu": "اور اپنا وظیفہ یہ بناتے ہو کہ (اسے) جھٹلاتے ہو",
+        "textEnglish": "And make [the thanks for] your provision that you deny [the Provider]?"
+      },
+      {
+        "verseNumber": 83,
+        "textArabic": "فَلَوْل[o[َآ] إِذَا بَلَغَتِ [h:13296[ٱ]لْحُلْق[p[ُو]مَ",
+        "textUrdu": "بھلا جب روح گلے میں آ پہنچتی ہے",
+        "textEnglish": "Then why, when the soul at death reaches the throat"
+      },
+      {
+        "verseNumber": 84,
+        "textArabic": "وَأَ[f:98[نت]ُمْ حِينَئِ[f:13297[ذٍ ت]َ[f:248[نظ]ُر[p[ُو]نَ",
+        "textUrdu": "اور تم اس وقت کی (حالت کو) دیکھا کرتے ہو",
+        "textEnglish": "And you are at that time looking on -"
+      },
+      {
+        "verseNumber": 85,
+        "textArabic": "وَنَحْنُ أَ[q:1355[قْ]رَبُ إِلَيْهِ مِ[f:344[نك]ُمْ وَلَ[n[ـٰ]ك[u:46[ِن ل]َّا تُ[q:8674[بْ]صِر[p[ُو]نَ",
+        "textUrdu": "اور ہم اس (مرنے والے) سے تم سے بھی زیادہ نزدیک ہوتے ہیں لیکن تم کو نظر نہیں آتے",
+        "textEnglish": "And Our angels are nearer to him than you, but you do not see -"
+      },
+      {
+        "verseNumber": 86,
+        "textArabic": "فَلَوْل[o[َآ] إِ[f:109[ن ك]ُ[f:100[نت]ُمْ غَيْرَ مَدِين[p[ِي]نَ",
+        "textUrdu": "پس اگر تم کسی کے بس میں نہیں ہو",
+        "textEnglish": "Then why do you not, if you are not to be recompensed,"
+      },
+      {
+        "verseNumber": 87,
+        "textArabic": "تَرْجِعُونَه[o[َآ] إِ[f:109[ن ك]ُ[f:100[نت]ُمْ صَ[n[ـٰ]دِق[p[ِي]نَ",
+        "textUrdu": "تو اگر سچے ہو تو روح کو پھیر کیوں نہیں لیتے؟",
+        "textEnglish": "Bring it back, if you should be truthful?"
+      },
+      {
+        "verseNumber": 88,
+        "textArabic": "فَأَ[g[مّ][o[َآ] إِ[f:2594[ن ك]َانَ مِنَ [h:13298[ٱ]لْمُقَرَّب[p[ِي]نَ",
+        "textUrdu": "پھر اگر وہ (خدا کے) مقربوں میں سے ہے",
+        "textEnglish": "And if the deceased was of those brought near to Allah,"
+      },
+      {
+        "verseNumber": 89,
+        "textArabic": "فَرَوْ[a:13299[حٌ و]َرَيْحَا[a:13300[نٌ و]َجَ[g[نّ]َتُ نَع[p[ِي]مٍ",
+        "textUrdu": "تو (اس کے لئے) آرام اور خوشبودار پھول اور نعمت کے باغ ہیں",
+        "textEnglish": "Then [for him is] rest and bounty and a garden of pleasure."
+      },
+      {
+        "verseNumber": 90,
+        "textArabic": "وَأَ[g[مّ][o[َآ] إِ[f:2594[ن ك]َانَ مِنْ أَصْحَ[n[ـٰ]بِ [h:13301[ٱ]لْيَم[p[ِي]نِ",
+        "textUrdu": "اور اگر وہ دائیں ہاتھ والوں میں سے ہے",
+        "textEnglish": "And if he was of the companions of the right,"
+      },
+      {
+        "verseNumber": 91,
+        "textArabic": "فَسَلَ[n[ـٰ][u:13302[مٌ ل]َّكَ مِنْ أَصْحَ[n[ـٰ]بِ [h:13301[ٱ]لْيَم[p[ِي]نِ",
+        "textUrdu": "تو (کہا جائے گا کہ) تجھ پر داہنے ہاتھ والوں کی طرف سے سلام",
+        "textEnglish": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right.\""
+      },
+      {
+        "verseNumber": 92,
+        "textArabic": "وَأَ[g[مّ][o[َآ] إِ[f:2594[ن ك]َانَ مِنَ [h:13303[ٱ]لْمُكَذِّبِينَ [h:13304[ٱ][l[ل]ضّ[m[َا]ٓلّ[p[ِي]نَ",
+        "textUrdu": "اور اگر وہ جھٹلانے والے گمراہوں میں سے ہے",
+        "textEnglish": "But if he was of the deniers [who were] astray,"
+      },
+      {
+        "verseNumber": 93,
+        "textArabic": "فَنُزُ[a:13305[لٌ م]ِّنْ حَم[p[ِي]مٍ",
+        "textUrdu": "تو (اس کے لئے) کھولتے پانی کی ضیافت ہے",
+        "textEnglish": "Then [for him is] accommodation of scalding water"
+      },
+      {
+        "verseNumber": 94,
+        "textArabic": "وَتَصْلِيَةُ جَح[p[ِي]مٍ",
+        "textUrdu": "اور جہنم میں داخل کیا جانا",
+        "textEnglish": "And burning in Hellfire"
+      },
+      {
+        "verseNumber": 95,
+        "textArabic": "إِ[g[نّ]َ هَ[n[ـٰ]ذَا لَهُوَ حَقُّ [h:13306[ٱ]لْيَق[p[ِي]نِ",
+        "textUrdu": "یہ (داخل کیا جانا یقیناً صحیح یعنی) حق الیقین ہے",
+        "textEnglish": "Indeed, this is the true certainty,"
+      },
+      {
+        "verseNumber": 96,
+        "textArabic": "فَسَبِّحْ بِ[h:13285[ٱ]سْمِ رَبِّكَ [h:13286[ٱ]لْعَظ[p[ِي]مِ",
+        "textUrdu": "تو تم اپنے پروردگار بزرگ کے نام کی تسبیح کرتے رہو",
+        "textEnglish": "So exalt the name of your Lord, the Most Great."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "number": 67,
+    "nameArabic": "سُورَةُ المُلۡكِ",
+    "nameEnglish": "Al-Mulk",
+    "nameUrdu": "سورۃ الملک",
+    "meaning": "The Sovereignty (تبارک الذی / نجات دہندہ)",
+    "versesCount": 30,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "رسول اللہ ﷺ نے فرمایا: قرآن میں 30 آیات کی ایک سورت ہے جو اپنے پڑھنے والے کی بخشش کے لیے سفارش کرتی ہے حتیٰ کہ اس کی مغفرت ہو جاتی ہے۔ عذابِ قبر سے نجات کا ذریعہ۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/067.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "تَبَ[n[ـٰ]رَكَ [h:9556[ٱ]لَّذِى بِيَدِهِ [h:13755[ٱ]لْمُلْكُ وَهُوَ عَلَىٰ كُلِّ ش[f:81[َىْءٍ ق]َد[p[ِي]رٌ",
+        "textUrdu": "وہ (خدا) جس کے ہاتھ میں بادشاہی ہے بڑی برکت والا ہے۔ اور وہ ہر چیز پر قادر ہے",
+        "textEnglish": "Blessed is He in whose hand is dominion, and He is over all things competent -"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "ٱلَّذِى خَلَقَ [h:13756[ٱ]لْمَوْتَ وَ[h:13757[ٱ]لْحَيَ[s[و][n[ٲ]ةَ لِيَ[q:3603[بْ]لُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَل[a:13758[اً‌ۚ و]َهُوَ [h:7045[ٱ]لْعَزِيزُ [h:13759[ٱ]لْغَف[p[ُو]رُ",
+        "textUrdu": "اسی نے موت اور زندگی کو پیدا کیا تاکہ تمہاری آزمائش کرے کہ تم میں کون اچھے عمل کرتا ہے۔ اور وہ زبردست (اور) بخشنے والا ہے",
+        "textEnglish": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -"
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "ٱلَّذِى خَلَقَ سَ[q:158[بْ]عَ سَمَ[n[ـٰ]و[n[َٲ][f:13760[تٍ ط]ِبَا[a:13761[قًا‌ۖ م]َّا تَرَىٰ فِى خَلْقِ [h:13762[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ مِ[f:13763[ن ت]َفَ[n[ـٰ]وُ[f:13764[تٍ‌ۖ ف]َ[h:13765[ٱ]رْجِعِ [h:13766[ٱ]لْبَصَرَ هَلْ تَرَىٰ مِ[f:13767[ن ف]ُط[p[ُو]رٍ",
+        "textUrdu": "اس نے سات آسمان اوپر تلے بنائے۔ (اے دیکھنے والے) کیا تو (خدا) رحمٰن کی آفرینش میں کچھ نقص دیکھتا ہے؟ ذرا آنکھ اٹھا کر دیکھ بھلا تجھ کو (آسمان میں) کوئی شگاف نظر آتا ہے؟",
+        "textEnglish": "[And] who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "ثُ[g[مّ]َ [h:13768[ٱ]رْجِعِ [h:13769[ٱ]لْبَصَرَ كَرَّتَيْنِ يَ[f:2282[نق]َلِ[q:2282[بْ] إِلَيْكَ [h:13770[ٱ]لْبَصَرُ خَاسِ[a:13771[ئًا و]َهُوَ حَس[p[ِي]رٌ",
+        "textUrdu": "پھر دو بارہ (سہ بارہ) نظر کر، تو نظر (ہر بار) تیرے پاس ناکام اور تھک کر لوٹ آئے گی",
+        "textEnglish": "Then return [your] vision twice again. [Your] vision will return to you humbled while it is fatigued."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "وَلَقَ[q:341[دْ] زَيَّ[g[نّ]َا [h:11314[ٱ][l[ل]سَّم[o[َا]ٓءَ [h:11315[ٱ][l[ل]دُّنْيَا بِمَصَ[n[ـٰ]بِيحَ وَجَعَلْنَ[n[ـٰ]هَا رُجُو[u:13772[مًا ل]ِّلشَّيَ[n[ـٰ]طِينِ‌ۖ وَأَعْتَ[q:2782[دْ]نَا لَهُمْ عَذَابَ [h:13773[ٱ][l[ل]سَّع[p[ِي]رِ",
+        "textUrdu": "اور ہم نے قریب کے آسمان کو (تاروں کے) چراغوں سے زینت دی۔ اور ان کو شیطان کے مارنے کا آلہ بنایا اور ان کے لئے دہکتی آگ کا عذاب تیار کر رکھا ہے",
+        "textEnglish": "And We have certainly beautified the nearest heaven with stars and have made [from] them what is thrown at the devils and have prepared for them the punishment of the Blaze."
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "وَلِلَّذِينَ كَفَرُو[s[اْ] بِرَبِّهِمْ عَذَابُ جَهَ[g[نّ]َمَ‌ۖ وَبِئْسَ [h:665[ٱ]لْمَص[p[ِي]رُ",
+        "textUrdu": "اور جن لوگوں نے اپنے پروردگار سے انکار کیا ان کے لئے جہنم کا عذاب ہے۔ اور وہ برا ٹھکانہ ہے",
+        "textEnglish": "And for those who disbelieved in their Lord is the punishment of Hell, and wretched is the destination."
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "إِذ[o[َآ] أُلْقُو[s[اْ] فِيهَا سَمِعُو[s[اْ] لَهَا شَهِي[a:13774[قًا و]َهِىَ تَف[p[ُو]رُ",
+        "textUrdu": "جب وہ اس میں ڈالے جائیں گے تو اس کا چیخنا چلانا سنیں گے اور وہ جوش مار رہی ہوگی",
+        "textEnglish": "When they are thrown into it, they hear from it a [dreadful] inhaling while it boils up."
+      },
+      {
+        "verseNumber": 8,
+        "textArabic": "تَكَادُ تَمَيَّزُ مِنَ [h:2195[ٱ]لْغَيْظِ‌ۖ كُلَّم[o[َآ] أُلْقِىَ فِيهَا فَوْ[f:13775[جٌ س]َأَلَهُمْ خَزَنَتُه[o[َآ] أَلَمْ يَأْتِكُمْ نَذ[p[ِي]رٌ",
+        "textUrdu": "گویا مارے جوش کے پھٹ پڑے گی۔ جب اس میں ان کی کوئی جماعت ڈالی جائے گی تو دوزخ کے داروغہ ان سے پوچھیں گے کہ تمہارے پاس کوئی ہدایت کرنے والا نہیں آیا تھا؟",
+        "textEnglish": "It almost bursts with rage. Every time a company is thrown into it, its keepers ask them, \"Did there not come to you a warner?\""
+      },
+      {
+        "verseNumber": 9,
+        "textArabic": "قَالُو[s[اْ] بَلَىٰ قَ[q:298[دْ] ج[o[َا]ٓءَنَا نَذِي[f:13776[رٌ ف]َكَذَّ[q:13777[بْ]نَا وَقُلْنَا مَا نَزَّلَ [h:4797[ٱ]للَّهُ مِ[f:2103[ن ش]َىْءٍ إِنْ أَ[f:428[نت]ُمْ إِلَّا فِى ضَلَ[n[ـٰ][f:13778[لٍ ك]َب[p[ِي]رٍ",
+        "textUrdu": "وہ کہیں گے کیوں نہیں ضرور ہدایت کرنے والا آیا تھا لیکن ہم نے اس کو جھٹلا دیا اور کہا کہ خدا نے تو کوئی چیز نازل ہی نہیں کی۔ تم تو بڑی غلطی میں (پڑے ہوئے) ہو",
+        "textEnglish": "They will say,\" Yes, a warner had come to us, but we denied and said, 'Allah has not sent down anything. You are not but in great error.'\""
+      },
+      {
+        "verseNumber": 10,
+        "textArabic": "وَقَالُو[s[اْ] لَوْ كُ[g[نّ]َا نَسْمَعُ أَوْ نَعْقِلُ مَا كُ[g[نّ]َا ف[o[ِىٓ] أَصْحَ[n[ـٰ]بِ [h:11067[ٱ][l[ل]سَّع[p[ِي]رِ",
+        "textUrdu": "اور کہیں گے اگر ہم سنتے یا سمجھتے ہوتے تو دوزخیوں میں نہ ہوتے",
+        "textEnglish": "And they will say, \"If only we had been listening or reasoning, we would not be among the companions of the Blaze.\""
+      },
+      {
+        "verseNumber": 11,
+        "textArabic": "فَ[h:9999[ٱ]عْتَرَفُو[s[اْ] بِذَ[i:13779[نۢب]ِهِمْ فَسُحْ[u:13780[قًا ل]ِّأَصْحَ[n[ـٰ]بِ [h:13781[ٱ][l[ل]سَّع[p[ِي]رِ",
+        "textUrdu": "پس وہ اپنے گناہ کا اقرار کرلیں گے۔ سو دوزخیوں کے لئے (رحمت خدا سے) دور ہی ہے",
+        "textEnglish": "And they will admit their sin, so [it is] alienation for the companions of the Blaze."
+      },
+      {
+        "verseNumber": 12,
+        "textArabic": "إِ[g[نّ]َ [h:24[ٱ]لَّذِينَ يَخْشَوْنَ رَبَّه[c:8779[ُم ب]ِ[h:13[ٱ]لْغَيْبِ لَه[w:3412[ُم م]َّغْفِرَ[a:3413[ةٌ و]َأَ[q:3414[جْ][f:6259[رٌ ك]َب[p[ِي]رٌ",
+        "textUrdu": "(اور) جو لوگ بن دیکھے اپنے پروردگار سے ڈرتے ہیں ان کے لئے بخشش اور اجر عظیم ہے",
+        "textEnglish": "Indeed, those who fear their Lord unseen will have forgiveness and great reward."
+      },
+      {
+        "verseNumber": 13,
+        "textArabic": "وَأَسِرُّو[s[اْ] قَوْلَكُمْ أَوِ [h:13782[ٱ][q:13783[جْ]هَرُو[s[اْ] بِه[o[ِۦٓ‌ۖ] إِ[g[نّ]َهُ[n[ۥ] عَلِي[i:2196[مُۢ ب]ِذَاتِ [h:2197[ٱ][l[ل]صُّد[p[ُو]رِ",
+        "textUrdu": "اور تم (لوگ) بات پوشیدہ کہو یا ظاہر۔ وہ دل کے بھیدوں تک سے واقف ہے",
+        "textEnglish": "And conceal your speech or publicize it; indeed, He is Knowing of that within the breasts."
+      },
+      {
+        "verseNumber": 14,
+        "textArabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ [h:4309[ٱ][l[ل]لَّطِيفُ [h:4310[ٱ]لْخَب[p[ِي]رُ",
+        "textUrdu": "بھلا جس نے پیدا کیا وہ بےخبر ہے؟ وہ تو پوشیدہ باتوں کا جاننے والا اور (ہر چیز سے) آگاہ ہے",
+        "textEnglish": "Does He who created not know, while He is the Subtle, the Acquainted?"
+      },
+      {
+        "verseNumber": 15,
+        "textArabic": "هُوَ [h:153[ٱ]لَّذِى جَعَلَ لَكُمُ [h:87[ٱ]لْأَرْضَ ذَلُول[f:13784[اً ف]َ[h:13785[ٱ]مْشُو[s[اْ] فِى مَنَاكِبِهَا وَكُلُو[s[اْ] م[u:13786[ِن ر]ِّزْقِه[n[ِۦ]‌ۖ وَإِلَيْهِ [h:13787[ٱ][l[ل][g[نّ]ُش[p[ُو]رُ",
+        "textUrdu": "وہی تو ہے جس نے تمہارے لئے زمین کو نرم کیا تو اس کی راہوں میں چلو پھرو اور خدا کا (دیا ہو) رزق کھاؤ اور تم کو اسی کے پاس (قبروں سے) نکل کر جانا ہے",
+        "textEnglish": "It is He who made the earth tame for you - so walk among its slopes and eat of His provision - and to Him is the resurrection."
+      },
+      {
+        "verseNumber": 16,
+        "textArabic": "ءَأَمِ[f:13788[نت][w:13789[ُم م]َّ[f:2074[ن ف]ِى [h:746[ٱ][l[ل]سَّم[o[َا]ٓءِ أ[a:7417[َن ي]َخْسِفَ بِكُمُ [h:13790[ٱ]لْأَرْضَ فَإِذَا هِىَ تَم[p[ُو]رُ",
+        "textUrdu": "کیا تم اس سے جو آسمان میں ہے بےخوف ہو کہ تم کو زمین میں دھنسا دے اور وہ اس وقت حرکت کرنے لگے",
+        "textEnglish": "Do you feel secure that He who [holds authority] in the heaven would not cause the earth to swallow you and suddenly it would sway?"
+      },
+      {
+        "verseNumber": 17,
+        "textArabic": "أَمْ أَمِ[f:1062[نت][w:13791[ُم م]َّ[f:2074[ن ف]ِى [h:746[ٱ][l[ل]سَّم[o[َا]ٓءِ أ[a:10505[َن ي]ُرْسِلَ عَلَيْكُمْ حَاصِ[f:13792[بًا‌ۖ ف]َسَتَعْلَمُونَ كَيْفَ نَذ[p[ِي]رِ",
+        "textUrdu": "کیا تم اس سے جو آسمان میں ہے نڈر ہو کہ تم پر کنکر بھری ہوا چھوڑ دے۔ سو تم عنقریب جان لو گے کہ میرا ڈرانا کیسا ہے",
+        "textEnglish": "Or do you feel secure that He who [holds authority] in the heaven would not send against you a storm of stones? Then you would know how [severe] was My warning."
+      },
+      {
+        "verseNumber": 18,
+        "textArabic": "وَلَقَ[q:341[دْ] كَذَّبَ [h:4507[ٱ]لَّذِينَ مِ[f:617[ن ق]َ[q:618[بْ]لِهِمْ فَكَيْفَ كَانَ نَك[p[ِي]رِ",
+        "textUrdu": "اور جو لوگ ان سے پہلے تھے انہوں نے بھی جھٹلایا تھا سو (دیکھ لو کہ) میرا کیسا عذاب ہوا",
+        "textEnglish": "And already had those before them denied, and how [terrible] was My reproach."
+      },
+      {
+        "verseNumber": 19,
+        "textArabic": "أَوَلَمْ يَرَوْ[s[اْ] إِلَى [h:7520[ٱ][l[ل]طَّيْرِ فَوْقَهُمْ صَ[m[ـٰٓ]فَّ[n[ـٰ][a:13793[تٍ و]َيَ[q:13794[قْ]بِضْنَ‌ۚ مَا يُمْسِكُهُ[g[نّ]َ إِلَّا [h:13795[ٱ][l[ل]رَّحْمَ[n[ـٰ]نُ‌ۚ إِ[g[نّ]َهُ[n[ۥ] بِكُلِّ شَىْ[i:13796[ءِۭ ب]َص[p[ِي]رٌ",
+        "textUrdu": "کیا انہوں نے اپنے سروں پر اڑتے ہوئے جانوروں کو نہیں دیکھا جو پروں کو پھیلائے رہتے ہیں اور ان کو سکیڑ بھی لیتے ہیں۔ خدا کے سوا انہیں کوئی تھام نہیں سکتا۔ بےشک وہ ہر چیز کو دیکھ رہا ہے",
+        "textEnglish": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing."
+      },
+      {
+        "verseNumber": 20,
+        "textArabic": "أَ[g[مّ]َنْ هَ[n[ـٰ]ذَا [h:126[ٱ]لَّذِى هُوَ جُن[u:13797[دٌ ل]َّكُمْ يَ[f:2381[نص]ُرُك[w:2382[ُم م]ِّ[f:107[ن د]ُونِ [h:12269[ٱ][l[ل]رَّحْمَ[n[ـٰ]نِ‌ۚ إِنِ [h:13798[ٱ]لْكَ[n[ـٰ]فِرُونَ إِلَّا فِى غُر[p[ُو]رٍ",
+        "textUrdu": "بھلا ایسا کون ہے جو تمہاری فوج ہو کر خدا کے سوا تمہاری مدد کرسکے۔ کافر تو دھوکے میں ہیں",
+        "textEnglish": "Or who is it that could be an army for you to aid you other than the Most Merciful? The disbelievers are not but in delusion."
+      },
+      {
+        "verseNumber": 21,
+        "textArabic": "أَ[g[مّ]َنْ هَ[n[ـٰ]ذَا [h:126[ٱ]لَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُ[n[ۥ]‌ۚ بَل لَّجُّو[s[اْ] فِى عُتُ[a:13799[وٍّ و]َنُف[p[ُو]رٍ",
+        "textUrdu": "بھلا اگر وہ اپنا رزق بند کرلے تو کون ہے جو تم کو رزق دے؟ لیکن یہ سرکشی اور نفرت میں پھنسے ہوئے ہیں",
+        "textEnglish": "Or who is it that could provide for you if He withheld His provision? But they have persisted in insolence and aversion."
+      },
+      {
+        "verseNumber": 22,
+        "textArabic": "أَفَم[a:13800[َن ي]َمْشِى مُكِبًّا عَلَىٰ وَ[q:6818[جْ]هِه[o[ِۦٓ] أَهْدَ[o[ىٰٓ] أَ[g[مّ][a:13801[َن ي]َمْشِى سَوِيًّا عَلَىٰ صِر[n[َٲ][a:726[طٍ م]ُّسْتَق[p[ِي]مٍ",
+        "textUrdu": "بھلا جو شخص چلتا ہوا منہ کے بل گر پڑتا ہے وہ سیدھے رستے پر ہے یا وہ جو سیدھے رستے پر برابر چل رہا ہو؟",
+        "textEnglish": "Then is one who walks fallen on his face better guided or one who walks erect on a straight path?"
+      },
+      {
+        "verseNumber": 23,
+        "textArabic": "قُلْ هُوَ [h:153[ٱ]لَّذ[o[ِىٓ] أَ[f:4272[نش]َأَكُمْ وَجَعَلَ لَكُمُ [h:7518[ٱ][l[ل]سَّمْعَ وَ[h:6037[ٱ]لْأَ[q:6037[بْ]صَ[n[ـٰ]رَ وَ[h:7519[ٱ]لْأَفْــِٔدَةَ‌ۖ قَلِيل[a:4583[اً م]َّا تَشْكُر[p[ُو]نَ",
+        "textUrdu": "کہو وہ خدا ہی تو ہے جس نے تم کو پیدا کیا۔ اور تمہارے کان اور آنکھیں اور دل بنائے (مگر) تم کم احسان مانتے ہو",
+        "textEnglish": "Say, \"It is He who has produced you and made for you hearing and vision and hearts; little are you grateful.\""
+      },
+      {
+        "verseNumber": 24,
+        "textArabic": "قُلْ هُوَ [h:153[ٱ]لَّذِى ذَرَأَكُمْ فِى [h:44[ٱ]لْأَرْضِ وَإِلَيْهِ تُحْشَر[p[ُو]نَ",
+        "textUrdu": "کہہ دو کہ وہی ہے جس نے تم کو زمین میں پھیلایا اور اسی کے روبرو تم جمع کئے جاؤ گے",
+        "textEnglish": "Say, \"It is He who has multiplied you throughout the earth, and to Him you will be gathered.\""
+      },
+      {
+        "verseNumber": 25,
+        "textArabic": "وَيَقُولُونَ مَتَىٰ هَ[n[ـٰ]ذَا [h:6081[ٱ]لْوَعْدُ إِ[f:109[ن ك]ُ[f:100[نت]ُمْ صَ[n[ـٰ]دِق[p[ِي]نَ",
+        "textUrdu": "اور کافر کہتے ہیں کہ اگر تم سچے ہو تو یہ وعید کب (پورا) ہوگا؟",
+        "textEnglish": "And they say, \"When is this promise, if you should be truthful?\""
+      },
+      {
+        "verseNumber": 26,
+        "textArabic": "قُلْ إِ[g[نّ]َمَا [h:12490[ٱ]لْعِلْمُ عِ[f:264[ند]َ [h:408[ٱ]للَّهِ وَإِ[g[نّ]َم[o[َآ] أَنَا۟ نَذِي[a:5164[رٌ م]ُّب[p[ِي]نٌ",
+        "textUrdu": "کہہ دو اس کا علم خدا ہی کو ہے۔ اور میں تو کھول کھول کر ڈر سنانے دینے والا ہوں",
+        "textEnglish": "Say, \"The knowledge is only with Allah, and I am only a clear warner.\""
+      },
+      {
+        "verseNumber": 27,
+        "textArabic": "فَلَ[g[مّ]َا رَأَوْهُ زُلْفَ[f:13802[ةً س]ِ[o[يٓ]ــَٔتْ وُجُوهُ [h:13803[ٱ]لَّذِينَ كَفَرُو[s[اْ] وَقِيلَ هَ[n[ـٰ]ذَا [h:126[ٱ]لَّذِى كُ[f:100[نت][c:6084[ُم ب]ِه[n[ِۦ] تَدَّع[p[ُو]نَ",
+        "textUrdu": "سو جب وہ دیکھ لیں گے کہ وہ (وعدہ) قریب آگیا تو کافروں کے منہ برے ہوجائیں گے اور (ان سے) کہا جائے گا کہ یہ وہی ہے جس کے تم خواستگار تھے",
+        "textEnglish": "But when they see it approaching, the faces of those who disbelieve will be distressed, and it will be said, \"This is that for which you used to call.\""
+      },
+      {
+        "verseNumber": 28,
+        "textArabic": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ [h:13804[ٱ]للَّهُ وَم[a:9807[َن م]َّعِىَ أَوْ رَحِمَنَا فَم[a:13805[َن ي]ُجِيرُ [h:13806[ٱ]لْكَ[n[ـٰ]فِرِينَ مِنْ عَذَابٍ أَل[p[ِي]مٍ",
+        "textUrdu": "کہو کہ بھلا دیکھو تو اگر خدا مجھ کو اور میرے ساتھیوں کو ہلاک کردے یا ہم پر مہربانی کرے۔ تو کون ہے کافروں کو دکھ دینے والے عذاب سے پناہ دے؟",
+        "textEnglish": "Say, [O Muhammad], \"Have you considered: whether Allah should cause my death and those with me or have mercy upon us, who can protect the disbelievers from a painful punishment?\""
+      },
+      {
+        "verseNumber": 29,
+        "textArabic": "قُلْ هُوَ [h:829[ٱ][l[ل]رَّحْمَ[n[ـٰ]نُ ءَامَ[g[نّ]َا بِه[n[ِۦ] وَعَلَيْهِ تَوَكَّلْنَا‌ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَ[n[ـٰ][a:2393[لٍ م]ُّب[p[ِي]نٍ",
+        "textUrdu": "کہہ دو کہ وہ جو (خدائے) رحمٰن (ہے) ہم اسی پر ایمان لائے اور اسی پر بھروسا رکھتے ہیں۔ تم کو جلد معلوم ہوجائے گا کہ صریح گمراہی میں کون پڑ رہا تھا",
+        "textEnglish": "Say, \"He is the Most Merciful; we have believed in Him, and upon Him we have relied. And you will [come to] know who it is that is in clear error.\""
+      },
+      {
+        "verseNumber": 30,
+        "textArabic": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ م[o[َا]ٓؤُكُمْ غَوْ[f:13807[رًا ف]َم[a:13808[َن ي]َأْتِيك[c:13809[ُم ب]ِم[o[َا]ٓ[a:13810[ءٍ م]َّع[p[ِي]نِۭ",
+        "textUrdu": "کہو کہ بھلا دیکھو تو اگر تمہارا پانی (جو تم پیتے ہو اور برتے ہو) خشک ہوجائے تو (خدا کے) سوا کون ہے جو تمہارے لئے شیریں پانی کا چشمہ بہا لائے",
+        "textEnglish": "Say, \"Have you considered: if your water was to become sunken [into the earth], then who could bring you flowing water?\""
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "number": 73,
+    "nameArabic": "سُورَةُ المُزَّمِّلِ",
+    "nameEnglish": "Al-Muzzammil",
+    "nameUrdu": "سورۃ المزمل",
+    "meaning": "The Enshrouded One (حصولِ مقاصد)",
+    "versesCount": 20,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "روحانی پاکیزگی، مشکلات کے حل اور رسول اللہ ﷺ کی زیارت کے لیے کثرت سے پڑھی جانے والی سورت۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/073.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "يَ[o[ـٰٓ]أَيُّهَا [h:14020[ٱ]لْمُزَّ[g[مّ]ِلُ",
+        "textUrdu": "اے (محمدﷺ) جو کپڑے میں لپٹ رہے ہو",
+        "textEnglish": "O you who wraps himself [in clothing],"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "قُمِ [h:14021[ٱ]لَّيْلَ إِلَّا قَلِيلاً",
+        "textUrdu": "رات کو قیام کیا کرو مگر تھوڑی سی رات",
+        "textEnglish": "Arise [to pray] the night, except for a little -"
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "نِّصْفَهُ[o[ۥٓ] أَوِ [h:14022[ٱ][f:14023[نق]ُصْ مِنْهُ قَلِيلاً",
+        "textUrdu": "(قیام) آدھی رات (کیا کرو)",
+        "textEnglish": "Half of it - or subtract from it a little"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "أَوْ زِ[q:14024[دْ] عَلَيْهِ وَرَتِّلِ [h:14025[ٱ]لْقُرْءَانَ تَرْتِيلاً",
+        "textUrdu": "یا اس سے کچھ کم یا کچھ زیادہ اور قرآن کو ٹھہر ٹھہر کر پڑھا کرو",
+        "textEnglish": "Or add to it, and recite the Qur'an with measured recitation."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "إِ[g[نّ]َا سَنُلْقِى عَلَيْكَ قَوْل[f:14026[اً ث]َقِيلاً",
+        "textUrdu": "ہم عنقریب تم پر ایک بھاری فرمان نازل کریں گے",
+        "textEnglish": "Indeed, We will cast upon you a heavy word."
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "إِ[g[نّ]َ نَاشِئَةَ [h:14027[ٱ]لَّيْلِ هِىَ أَشَدُّ وَ[q:14028[طْ]ـ[a:14029[ـًٔا و]َأَ[q:1684[قْ]وَمُ قِيلاً",
+        "textUrdu": "کچھ شک نہیں کہ رات کا اٹھنا (نفس بہیمی) کو سخت پامال کرتا ہے اور اس وقت ذکر بھی خوب درست ہوتا ہے",
+        "textEnglish": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words."
+      },
+      {
+        "verseNumber": 7,
+        "textArabic": "إِ[g[نّ]َ لَكَ فِى [h:1829[ٱ][l[ل][g[نّ]َهَارِ سَ[q:14030[بْ][f:14031[حًا ط]َوِيلاً",
+        "textUrdu": "دن کے وقت تو تمہیں اور بہت سے شغل ہوتے ہیں",
+        "textEnglish": "Indeed, for you by day is prolonged occupation."
+      },
+      {
+        "verseNumber": 8,
+        "textArabic": "وَ[h:9999[ٱ]ذْكُرِ [h:14032[ٱ]سْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَ[q:14033[بْ]تِيلاً",
+        "textUrdu": "تو اپنے پروردگار کے نام کا ذکر کرو اور ہر طرف سے بےتعلق ہو کر اسی کی طرف متوجہ ہوجاؤ",
+        "textEnglish": "And remember the name of your Lord and devote yourself to Him with [complete] devotion."
+      },
+      {
+        "verseNumber": 9,
+        "textArabic": "رَّبُّ [h:9739[ٱ]لْمَشْرِقِ وَ[h:904[ٱ]لْمَغْرِبِ ل[o[َآ] إِلَ[n[ـٰ]هَ إِلَّا هُوَ فَ[h:14034[ٱ]تَّخِذْهُ وَكِيلاً",
+        "textUrdu": "مشرق اور مغرب کا مالک (ہے اور) اس کے سوا کوئی معبود نہیں تو اسی کو اپنا کارساز بناؤ",
+        "textEnglish": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs."
+      },
+      {
+        "verseNumber": 10,
+        "textArabic": "وَ[h:9999[ٱ]صْبِرْ عَلَىٰ مَا يَقُولُونَ وَ[h:14035[ٱ]هْجُرْهُمْ هَ[q:14036[جْ][f:14037[رًا ج]َمِيلاً",
+        "textUrdu": "اور جو جو (دل آزار) باتیں یہ لوگ کہتے ہیں ان کو سہتے رہو اور اچھے طریق سے ان سے کنارہ کش رہو",
+        "textEnglish": "And be patient over what they say and avoid them with gracious avoidance."
+      },
+      {
+        "verseNumber": 11,
+        "textArabic": "وَذَرْنِى وَ[h:14038[ٱ]لْمُكَذِّبِينَ أُ[s[وْ]لِى [h:14039[ٱ][l[ل][g[نّ]َعْمَةِ وَمَهِّلْهُمْ قَلِيلاً",
+        "textUrdu": "اور مجھے ان جھٹلانے والوں سے جو دولتمند ہیں سمجھ لینے دو اور ان کو تھوڑی سی مہلت دے دو",
+        "textEnglish": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little."
+      },
+      {
+        "verseNumber": 12,
+        "textArabic": "إِ[g[نّ]َ لَدَيْن[o[َآ] أَ[f:14040[نك]َال[a:14041[اً و]َجَحِيمًا",
+        "textUrdu": "کچھ شک نہیں کہ ہمارے پاس بیڑیاں ہیں اور بھڑکتی ہوئی آگ ہے",
+        "textEnglish": "Indeed, with Us [for them] are shackles and burning fire"
+      },
+      {
+        "verseNumber": 13,
+        "textArabic": "وَطَعَا[f:14042[مًا ذ]َا غُصَّ[a:14043[ةٍ و]َعَذَابًا أَلِيمًا",
+        "textUrdu": "اور گلوگیر کھانا ہے اور درد دینے والا عذاب (بھی) ہے",
+        "textEnglish": "And food that chokes and a painful punishment -"
+      },
+      {
+        "verseNumber": 14,
+        "textArabic": "يَوْمَ تَرْجُفُ [h:14044[ٱ]لْأَرْضُ وَ[h:8957[ٱ]لْجِبَالُ وَكَانَتِ [h:14045[ٱ]لْجِبَالُ كَثِي[a:14046[بًا م]َّهِيلاً",
+        "textUrdu": "جس دن زمین اور پہاڑ کانپنے لگیں اور پہاڑ ایسے بھر بھرے (گویا) ریت کے ٹیلے ہوجائیں",
+        "textEnglish": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down."
+      },
+      {
+        "verseNumber": 15,
+        "textArabic": "إِ[g[نّ][o[َآ] أَرْسَلْن[o[َآ] إِلَيْكُمْ رَسُول[f:14047[اً ش]َ[n[ـٰ]هِدًا عَلَيْكُمْ كَم[o[َآ] أَرْسَلْن[o[َآ] إِلَىٰ فِرْعَوْنَ رَسُولاً",
+        "textUrdu": "(اے اہل مکہ) جس طرح ہم نے فرعون کے پاس (موسیٰ کو) پیغمبر (بنا کر) بھیجا تھا (اسی طرح) تمہارے پاس بھی (محمدﷺ) رسول بھیجے ہیں جو تمہارے مقابلے میں گواہ ہوں گے",
+        "textEnglish": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger."
+      },
+      {
+        "verseNumber": 16,
+        "textArabic": "فَعَصَىٰ فِرْعَوْنُ [h:14048[ٱ][l[ل]رَّسُولَ فَأَخَذْنَ[n[ـٰ]هُ أَخْ[a:14049[ذًا و]َبِيلاً",
+        "textUrdu": "سو فرعون نے (ہمارے) پیغمبر کا کہا نہ مانا تو ہم نے اس کو بڑے وبال میں پکڑ لیا",
+        "textEnglish": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure."
+      },
+      {
+        "verseNumber": 17,
+        "textArabic": "فَكَيْفَ تَتَّقُونَ إِ[f:14050[ن ك]َفَرْتُمْ يَوْ[a:14051[مًا ي]َ[q:4388[جْ]عَلُ [h:14052[ٱ]لْوِلْد[n[َٲ]نَ شِيبًا",
+        "textUrdu": "اگر تم بھی (ان پیغمبروں کو) نہ مانو گے تو اس دن سے کیونکر بچو گے جو بچّوں کو بوڑھا کر دے گا",
+        "textEnglish": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired?"
+      },
+      {
+        "verseNumber": 18,
+        "textArabic": "ٱ[l[ل]سَّم[o[َا]ٓءُ مُ[f:14053[نف]َطِ[i:14054[رُۢ ب]ِه[n[ِۦ]‌ۚ كَانَ وَعْدُهُ[n[ۥ] مَفْعُولاً",
+        "textUrdu": "(اور) جس سے آسمان پھٹ جائے گا۔ یہ اس کا وعدہ (پورا) ہو کر رہے گا",
+        "textEnglish": "The heaven will break apart therefrom; ever is His promise fulfilled."
+      },
+      {
+        "verseNumber": 19,
+        "textArabic": "إِ[g[نّ]َ هَ[n[ـٰ]ذِه[n[ِۦ] تَذْكِرَ[f:14055[ةٌ‌ۖ ف]َمَ[f:8041[ن ش][o[َا]ٓءَ [h:14056[ٱ]تَّخَذَ إِلَىٰ رَبِّه[n[ِۦ] سَبِيلاً",
+        "textUrdu": "یہ (قرآن) تو نصیحت ہے۔ سو جو چاہے اپنے پروردگار تک (پہنچنے کا) رستہ اختیار کرلے",
+        "textEnglish": "Indeed, this is a reminder, so whoever wills may take to his Lord a way."
+      },
+      {
+        "verseNumber": 20,
+        "textArabic": "۞ إِ[g[نّ]َ رَبَّكَ يَعْلَمُ أَ[g[نّ]َكَ تَقُومُ أَ[q:314[دْ]نَىٰ مِ[f:14057[ن ث]ُلُثَىِ [h:14058[ٱ]لَّيْلِ وَنِصْفَهُ[n[ۥ] وَثُلُثَهُ[n[ۥ] وَط[o[َا]ٓئِفَ[a:14059[ةٌ م]ِّنَ [h:523[ٱ]لَّذِينَ مَعَكَ‌ۚ وَ[h:72[ٱ]للَّهُ يُقَدِّرُ [h:14060[ٱ]لَّيْلَ وَ[h:6117[ٱ][l[ل][g[نّ]َهَارَ‌ۚ عَلِمَ أ[u:8842[َن ل]َّ[f:14061[ن ت]ُحْصُوهُ فَتَابَ عَلَيْكُمْ‌ۖ فَ[h:14062[ٱ][q:14062[قْ]رَءُو[s[اْ] مَا تَيَسَّرَ مِنَ [h:7870[ٱ]لْقُرْءَانِ‌ۚ عَلِمَ أَ[f:14063[ن س]َيَكُونُ مِ[f:344[نك][w:14064[ُم م]َّرْضَىٰ‌ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى [h:44[ٱ]لْأَرْضِ يَ[q:3357[بْ]تَغُونَ مِ[f:6655[ن ف]َضْلِ [h:6656[ٱ]للَّهِ‌ۙ وَءَاخَرُونَ يُقَ[n[ـٰ]تِلُونَ فِى سَبِيلِ [h:788[ٱ]للَّهِ‌ۖ فَ[h:14062[ٱ][q:14062[قْ]رَءُو[s[اْ] مَا تَيَسَّرَ مِنْهُ‌ۚ وَأَقِيمُو[s[اْ] [h:214[ٱ][l[ل]صَّلَ[s[و][n[ٲ]ةَ وَءَاتُو[s[اْ] [h:215[ٱ][l[ل]زَّكَ[s[و][n[ٲ]ةَ وَأَ[q:14065[قْ]رِضُو[s[اْ] [h:14066[ٱ]للَّهَ قَرْضًا حَسَ[a:6460[نًا‌ۚ و]َمَا تُقَدِّمُو[s[اْ] لِأَ[f:574[نف]ُسِك[w:575[ُم م]ِّنْ خَيْ[f:576[رٍ ت]َجِدُوهُ عِ[f:264[ند]َ [h:408[ٱ]للَّهِ هُوَ خَيْ[a:14067[رًا و]َأَعْظَمَ أَ[q:2795[جْ][a:14068[رًا‌ۚ و]َ[h:1101[ٱ]سْتَغْفِرُو[s[اْ] [h:1102[ٱ]للَّهَ‌ۖ إِ[g[نّ]َ [h:80[ٱ]للَّهَ غَفُو[u:890[رٌ ر]َّح[p[ِي]مُۢ",
+        "textUrdu": "تمہارا پروردگار خوب جانتا ہے کہ تم اور تمہارے ساتھ کے لوگ (کبھی) دو تہائی رات کے قریب اور (کبھی) آدھی رات اور (کبھی) تہائی رات قیام کیا کرتے ہو۔ اور خدا تو رات اور دن کا اندازہ رکھتا ہے۔ اس نے معلوم کیا کہ تم اس کو نباہ نہ سکو گے تو اس نے تم پر مہربانی کی۔ پس جتنا آسانی سے ہوسکے (اتنا) قرآن پڑھ لیا کرو۔ اس نے جانا کہ تم میں بعض بیمار بھی ہوتے ہیں اور بعض خدا کے فضل (یعنی معاش) کی تلاش میں ملک میں سفر کرتے ہیں اور بعض خدا کی راہ میں لڑتے ہیں۔ تو جتنا آسانی سے ہوسکے اتنا پڑھ لیا کرو۔ اور نماز پڑھتے رہو اور زکوٰة ادا کرتے رہو اور خدا کو نیک (اور خلوص نیت سے) قرض دیتے رہو۔ اور جو عمل نیک تم اپنے لئے آگے بھیجو گے اس کو خدا کے ہاں بہتر اور صلے میں بزرگ تر پاؤ گے۔ اور خدا سے بخشش مانگتے رہو۔ بےشک خدا بخشنے والا مہربان ہے",
+        "textEnglish": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "number": 109,
+    "nameArabic": "سُورَةُ الكَافِرُونَ",
+    "nameEnglish": "Al-Kaafiroon",
+    "nameUrdu": "سورۃ الکافرون",
+    "meaning": "The Disbelievers (پہلا قل - براءتِ شرک)",
+    "versesCount": 6,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "رسول اللہ ﷺ نے فرمایا: سورۃ الکافرون پڑھنا چوتھائی قرآن کے برابر ہے اور یہ شرک سے مکمل براءت کا اعلان ہے۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/109.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "قُلْ يَ[o[ـٰٓ]أَيُّهَا [h:14663[ٱ]لْكَ[n[ـٰ]فِر[p[ُو]نَ",
+        "textUrdu": "(اے پیغمبر ان منکران اسلام سے) کہہ دو کہ اے کافرو!",
+        "textEnglish": "Say, \"O disbelievers,"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "ل[o[َآ] أَعْبُدُ مَا تَعْبُد[p[ُو]نَ",
+        "textUrdu": "جن (بتوں) کو تم پوچتے ہو ان کو میں نہیں پوجتا",
+        "textEnglish": "I do not worship what you worship."
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+        "textUrdu": "اور جس (خدا) کی میں عبادت کرتا ہوں اس کی تم عبادت نہیں کرتے",
+        "textEnglish": "Nor are you worshippers of what I worship."
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "وَل[o[َآ] أَنَا۟ عَابِ[a:14664[دٌ م]َّا عَبَ[d:14665[د]تُّمْ",
+        "textUrdu": "اور (میں پھر کہتا ہوں کہ) جن کی تم پرستش کرتے ہوں ان کی میں پرستش کرنے والا نہیں ہوں",
+        "textEnglish": "Nor will I be a worshipper of what you worship."
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "وَل[o[َآ] أَ[f:428[نت]ُمْ عَ[n[ـٰ]بِدُونَ م[o[َآ] أَعْبُ[q[د]ُ",
+        "textUrdu": "اور نہ تم اس کی بندگی کرنے والے (معلوم ہوتے) ہو جس کی میں بندگی کرتا ہوں",
+        "textEnglish": "Nor will you be worshippers of what I worship."
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "لَكُمْ دِينُكُمْ وَلِىَ د[p[ِي]نِ",
+        "textUrdu": "تم اپنے دین پر میں اپنے دین پر",
+        "textEnglish": "For you is your religion, and for me is my religion.\""
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "number": 112,
+    "nameArabic": "سُورَةُ الإِخۡلَاصِ",
+    "nameEnglish": "Al-Ikhlaas",
+    "nameUrdu": "سورۃ الاخلاص",
+    "meaning": "The Sincerity (دوسرا قل - خالص توحید)",
+    "versesCount": 4,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "رسول اللہ ﷺ نے فرمایا: سورہ اخلاص تہائی قرآن کے برابر ہے۔ تین بار پڑھنے سے پورے قرآن کی تلاوت کا ثواب ملتا ہے۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/112.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "قُلْ هُوَ [h:8078[ٱ]للَّهُ أَحَ[q[د]ٌ",
+        "textUrdu": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے",
+        "textEnglish": "Say, \"He is Allah, [who is] One,"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "ٱللَّهُ [h:14675[ٱ][l[ل]صَّمَ[q[د]ُ",
+        "textUrdu": "معبود برحق جو بےنیاز ہے",
+        "textEnglish": "Allah, the Eternal Refuge."
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "لَمْ يَلِ[q:14676[دْ] وَلَمْ يُولَ[q:14677[دْ]",
+        "textUrdu": "نہ کسی کا باپ ہے اور نہ کسی کا بیٹا",
+        "textEnglish": "He neither begets nor is born,"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "وَلَمْ يَك[u:2596[ُن ل]َّهُ[n[ۥ] كُفُوًا أَحَ[q[د]ُۢ",
+        "textUrdu": "اور کوئی اس کا ہمسر نہیں",
+        "textEnglish": "Nor is there to Him any equivalent.\""
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "number": 113,
+    "nameArabic": "سُورَةُ الفَلَقِ",
+    "nameEnglish": "Al-Falaq",
+    "nameUrdu": "سورۃ الفلق",
+    "meaning": "The Daybreak (تیسرا قل - پناہ مانگنا)",
+    "versesCount": 5,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "حسد، جادو، نظر بد اور تمام شرور سے حفاظت کے لیے معوذتین میں سے ایک بے نظیر سورت۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/113.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "قُلْ أَعُوذُ بِرَبِّ [h:14678[ٱ]لْفَلَ[q[ق]ِ",
+        "textUrdu": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں",
+        "textEnglish": "Say, \"I seek refuge in the Lord of daybreak"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "مِ[f:14679[ن ش]َرِّ مَا خَلَ[q[ق]َ",
+        "textUrdu": "ہر چیز کی بدی سے جو اس نے پیدا کی",
+        "textEnglish": "From the evil of that which He created"
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "وَمِ[f:14680[ن ش]َرِّ غَاسِقٍ إِذَا وَقَ[q[ب]َ",
+        "textUrdu": "اور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے",
+        "textEnglish": "And from the evil of darkness when it settles"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "وَمِ[f:14680[ن ش]َرِّ [h:14681[ٱ][l[ل][g[نّ]َفَّ[n[ـٰ]ثَ[n[ـٰ]تِ فِى [h:14682[ٱ]لْعُقَ[q[د]ِ",
+        "textUrdu": "اور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے",
+        "textEnglish": "And from the evil of the blowers in knots"
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "وَمِ[f:14680[ن ش]َرِّ حَاسِدٍ إِذَا حَسَ[q[د]َ",
+        "textUrdu": "اور حسد کرنے والے کی برائی سے جب حسد کرنے لگے",
+        "textEnglish": "And from the evil of an envier when he envies.\""
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "number": 114,
+    "nameArabic": "سُورَةُ النَّاسِ",
+    "nameEnglish": "An-Naas",
+    "nameUrdu": "سورۃ الناس",
+    "meaning": "Mankind (چوتھا قل - وسوسوں سے امان)",
+    "versesCount": 6,
+    "revelationType": "Meccan",
+    "benefitsUrdu": "شیطانی وسوسوں، جنات اور انسانوں کے شر سے امان اور روحانی تحفظ کے لیے اکسیر سورت۔",
+    "audioUrl": "https://server8.mp3quran.net/afs/114.mp3",
+    "verses": [
+      {
+        "verseNumber": 1,
+        "textArabic": "قُلْ أَعُوذُ بِرَبِّ [h:14683[ٱ][l[ل][g[نّ][p[َا]سِ",
+        "textUrdu": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں",
+        "textEnglish": "Say, \"I seek refuge in the Lord of mankind,"
+      },
+      {
+        "verseNumber": 2,
+        "textArabic": "مَلِكِ [h:14684[ٱ][l[ل][g[نّ][p[َا]سِ",
+        "textUrdu": "(یعنی) لوگوں کے حقیقی بادشاہ کی",
+        "textEnglish": "The Sovereign of mankind."
+      },
+      {
+        "verseNumber": 3,
+        "textArabic": "إِلَ[n[ـٰ]هِ [h:14685[ٱ][l[ل][g[نّ][p[َا]سِ",
+        "textUrdu": "لوگوں کے معبود برحق کی",
+        "textEnglish": "The God of mankind,"
+      },
+      {
+        "verseNumber": 4,
+        "textArabic": "مِ[f:14679[ن ش]َرِّ [h:14686[ٱ]لْوَسْوَاسِ [h:14687[ٱ]لْخَ[g[نّ][p[َا]سِ",
+        "textUrdu": "(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے",
+        "textEnglish": "From the evil of the retreating whisperer -"
+      },
+      {
+        "verseNumber": 5,
+        "textArabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ [h:14688[ٱ][l[ل][g[نّ][p[َا]سِ",
+        "textUrdu": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+        "textEnglish": "Who whispers [evil] into the breasts of mankind -"
+      },
+      {
+        "verseNumber": 6,
+        "textArabic": "مِنَ [h:6531[ٱ]لْجِ[g[نّ]َةِ وَ[h:824[ٱ][l[ل][g[نّ][p[َا]سِ",
+        "textUrdu": "وہ جنّات میں سے (ہو) یا انسانوں میں سے",
+        "textEnglish": "From among the jinn and mankind.\""
+      }
+    ]
+  }
+]

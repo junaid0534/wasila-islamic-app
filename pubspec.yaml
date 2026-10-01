@@ -1,0 +1,42 @@
+name: wasila
+description: "Wasila - Daily Islamic Companion for Surahs, Azkar, 99 Names & Prayer Times."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1
+  just_audio: ^0.9.36
+  audio_session: ^0.1.18
+  flutter_animate: ^4.5.0
+  adhan: ^2.0.0-nullsafety.1
+  geolocator: ^11.0.0
+  sensors_plus: ^6.1.1
+  vibration: ^2.0.0
+  google_fonts: ^6.2.1
+  hijri: ^3.0.0
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  flutter_local_notifications: ^17.2.2
+  timezone: ^0.9.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/data/
+    - assets/audio/
+
