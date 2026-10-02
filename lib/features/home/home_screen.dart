@@ -15,6 +15,7 @@ import 'widgets/quick_grid.dart';
 import '../../core/widgets/font_settings_sheet.dart';
 import '../names/names_screen.dart';
 import '../rabbana/rabbana_screen.dart';
+import '../zakat/zakat_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   final Function(int)? onNavigateTab;
@@ -154,7 +155,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ),
               const SizedBox(height: 14),
 
-              // 2x2 Quick Feature Grid
+              // 2x3 Quick Feature Grid
               QuickGrid(
                 items: [
                   QuickGridItem(
@@ -162,6 +163,32 @@ class _HomeScreenState extends State<HomeScreen> {
                     subtitle: 'Yaseen, Mulk, Rahman',
                     icon: Icons.menu_book_rounded,
                     onTap: () => widget.onNavigateTab?.call(1),
+                  ),
+                  QuickGridItem(
+                    title: '40 Rabbana Duas',
+                    subtitle: 'Audio & Urdu Tarjuma',
+                    icon: Icons.auto_stories_rounded,
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => const RabbanaScreen(),
+                        ),
+                      );
+                    },
+                  ),
+                  QuickGridItem(
+                    title: 'Zakat Calculator',
+                    subtitle: 'Shariah 2.5% Hisab',
+                    icon: Icons.calculate_rounded,
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => const ZakatScreen(),
+                        ),
+                      );
+                    },
                   ),
                   QuickGridItem(
                     title: 'Daily Azkar & Duas',
